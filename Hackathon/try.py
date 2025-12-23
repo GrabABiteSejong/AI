@@ -8,7 +8,7 @@ from rank_bm25 import BM25Okapi
 from sklearn.preprocessing import MinMaxScaler
 from sentence_transformers import SentenceTransformer, util
 from fastapi.middleware.cors import CORSMiddleware
-
+import random
 
 app = FastAPI(title="세종대 진로 로드맵 API")
 
@@ -52,22 +52,18 @@ class RecommendRequest(BaseModel):
 def get_recommendations(dept_name, query):
     file_name = manager.dept_map.get(dept_name)
     if not file_name:
-        # 키워드 매칭 시도
         matches = [d for d in manager.dept_map.keys() if dept_name in d]
         if not matches: return None
         file_name = manager.dept_map[matches[0]]
 
-    # 데이터 로드 및 처리
     df_raw = pd.read_csv(os.path.join(DATA_DIR, file_name))
     df = df_raw[df_raw['학년'] != 1].copy().reset_index(drop=True)
     df['search_text'] = df['과목명'] + " " + df['키워드'].fillna("")
 
-    # BM25 & Embedding
     tokenized_corpus = [doc.split(" ") for doc in df['search_text'].tolist()]
     bm25 = BM25Okapi(tokenized_corpus)
     corpus_embeddings = model.encode(df['search_text'].tolist(), show_progress_bar=False)
 
-    # Hybrid Score 계산
     bm25_scores = bm25.get_scores(query.split(" "))
     query_embedding = model.encode(query)
     vector_scores = util.cos_sim(query_embedding, corpus_embeddings).flatten().numpy()
@@ -76,15 +72,31 @@ def get_recommendations(dept_name, query):
     bm25_norm = scaler.fit_transform(bm25_scores.reshape(-1, 1)).flatten()
     vector_norm = scaler.fit_transform(vector_scores.reshape(-1, 1)).flatten()
 
-    # $Score = 0.4 \cdot Vector + 0.6 \cdot BM25$
     final_scores = (0.4 * vector_norm) + (0.6 * bm25_norm)
     df['score'] = np.sqrt(final_scores) * 100
     
     results = df.sort_values(by='score', ascending=False).drop_duplicates(subset=['과목명']).head(8)
     
-    # 핵심 역량 문구 생성
-    keywords = [k for k in results['키워드'].tolist() if str(k) != 'nan'][:3]
-    competency = f"{', '.join(keywords)} 중심의 {query} 전문성 강화"
+    # --- 핵심 역량 문구 생성 로직 수정 ---
+    # 1. 모든 유효한 키워드를 리스트로 추출 (NaN 및 공백 제거)
+    all_valid_keywords = [k.strip() for k in results['키워드'].tolist() if pd.notna(k) and str(k).strip() != '']
+    
+    # 2. 중복 키워드 제거
+    unique_keywords = list(dict.fromkeys(all_valid_keywords))
+
+    # 3. 랜덤하게 2개 선택 (키워드가 2개 미만일 경우 처리 포함)
+    if len(unique_keywords) >= 2:
+        selected_keywords = random.sample(unique_keywords, 2)
+    else:
+        selected_keywords = unique_keywords
+
+    # 4. 문장 생성
+    if selected_keywords:
+        keyword_str = ", ".join(selected_keywords)
+        competency = f"{keyword_str} 중심의 {query} 전문성 강화"
+    else:
+        competency = f"{query} 분야 전공 심화 역량 확보"
+    # ---------------------------------------
     
     return results.to_dict(orient='records'), competency
 
