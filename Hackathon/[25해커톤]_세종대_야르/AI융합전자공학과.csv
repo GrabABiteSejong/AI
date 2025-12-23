@@ -1,0 +1,75 @@
+﻿학년,학기,이수구분,과목명,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,1,공통필수,우주자연인간,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,1,학문기초교양필수,미적분학1,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,1,학문기초교양필수,고급프로그래밍활용,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,1,전공기초,확률및통계,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,1,전공기초,C프로그래밍및실습,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,공통필수,세종인을위한전공탐색,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,공통필수,서양철학:쟁점과토론,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,공통필수,대학영어,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,학문기초교양필수,인공지능과빅데이터,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,전공기초,공업수학1,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,전공기초,고급C프로그래밍및실습,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+1,2,전공기초,선형대수,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,1,전공필수,기초전자물리,,"기초 전자기학, 전하와 전기장, 물리 법칙 응용",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,1,전공필수,전기회로,,"회로망 해석(KCL, KVL), RLC 소자 특성 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,1,전공선택,디지털논리회로,,"논리 게이트 설계, 조합 및 순차 회로 구성",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,1,전공선택,MATLAB프로그래밍,,"수치 해석 도구 활용, 행렬 연산 및 시뮬레이션",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,1,전공선택,데이터구조론,,"자료 구조 기초, 알고리즘 복잡도, 스택, 큐, 트리",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,1,전공선택,공업수학2,,"벡터 미적분학, 복소수 및 푸리에 해석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공필수,기초설계,,"공학 설계 프로세스, 창의적 문제 정의 및 해결",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공필수,물리전자공학,,"반도체 물리 원리, 소자 특성 및 동작 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공필수,신호및시스템,,"LTI 시스템 응답, 신호 변환 및 주파수 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공선택,컴퓨터구조론,,"CPU 아키텍처, 메모리 계층 및 파이프라이닝",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공선택,전기회로실험,,"실험 장비 활용, 회로 구현 및 측정 데이터 검증",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공선택,객체지향프로그래밍,,"OOP 개념, 클래스 설계 및 상속, 모듈식 프로그래밍",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+2,2,전공선택,데이터분석과도표작성,,"통계적 데이터 처리, 시각화 및 인사이트 도출",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공필수,전자회로1,,"다이오드, 트랜지스터, 증폭기 기초 설계",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공필수,고급물리전자,,"반도체 물리 고도화, 캐리어 수송, 접합 이론",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공필수,전자기1,,"정전기장, 정자기장, 맥스웰 방정식 기초",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공필수,디지털신호처리,,"샘플링 이론, Z-변환, 디지털 필터 설계",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공필수,데이터통신,,"데이터 전송 기초, 네트워크 계층, 오류 제어",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공필수,통신이론,,"아날로그 변조, 신호 대 잡음비(SNR), 스펙트럼 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공선택,기초광학및실험,,"반사 및 굴절, 간섭과 회절, 광학 시스템 실험",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공선택,정보이론,,"엔트로피, 채널 용량, 소스 및 채널 코딩",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공선택,자동제어,,"피드백 제어 시스템, 안정성 해석, 근궤적법",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공선택,랜덤프로세스,,"확률 변수, 상관 함수, 전력 밀도 스펙트럼",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,1,전공선택,인공지능,,"기계 학습 기초, 신경망 구조, 탐색 알고리즘",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공필수,광전자공학,,"레이저 원리, LED 및 광검출기, 광통신 소자",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공필수,음성처리,,"음성 분석, 특징 추출, 음성 신호 모델링",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공필수,영상처리,,"영상 개선, 에지 검출, 이미지 압축 및 복원",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공필수,디지털통신시스템,,"디지털 변조(QAM, PSK), 비트 오류율(BER) 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공필수,컴퓨터네트워크,,"OSI 7계층, TCP, IP 프로토콜, 라우팅 알고리즘",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,전자회로2,,"연산 증폭기 응용, 주파수 응답, 피드백 증폭기 설계",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,양자전자소자공학,,"양자 역학 기초, 에너지 밴드 구조, 소자 물리",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,전자기2,,"시변 전자기장, 전자기파 전파, 전송선로 이론",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,전자소자설계,,"CAD 툴 활용 소자 설계, 공정 시뮬레이션, 특성 최적화",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,디스플레이공학,,"LCD, OLED 구동 원리, 박막 트랜지스터(TFT) 기술",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,데이터통신설계,,"네트워크 설계 실무, 통신 프로토콜 구현 및 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,임베디드시스템,,"펌웨어 프로그래밍, MCU 제어, 실시간 운영체제(RTOS)",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+3,2,전공선택,정보시스템설계,,"시스템 분석 및 설계, DB 연동, 정보 아키텍처",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,졸업연구및진로1,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,전자정보통신공학특강A,,"최신 기술 동향, 특수 주제 세미나, 산업체 전문가 강연",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,캡스톤디자인A,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,전자회로설계,,"회로 시뮬레이션(PSpice), PCB 설계, 증폭기 및 필터 구현",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,초고주파공학,,"전송선로 이론, 스미스 차트, 임피던스 매칭, RF 회로",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,전자소자공정실험,,"반도체 제조 공정, 웨이퍼 에칭, 소자 특성 측정",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,멀티미디어설계,,"비디오, 오디오 코덱, 압축 알고리즘, 멀티미디어 스트리밍",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,무선통신공학,,"페이딩 채널, 다중 접속 기술(TDMA, CDMA), 무선 전송 원리",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,광통신공학,,"광섬유 특성, 광원(LD, LED), 광검출기, 파장 분할 다중화(WDM)",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,통신시스템설계,,"시스템 모델링, 성능 분석, 통신 모듈 통합 설계",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,1,전공선택,마이크로컴퓨터실험,,"MCU 프로그래밍, 주변장치 인터페이스, 어셈블리, C 언어 실습",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,졸업연구및진로2,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,전자정보통신공학특강B,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,캡스톤디자인B,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,K-MOOC:무선인터넷의이해,,"모바일 네트워크, 무선 프로토콜, 인터넷 서비스 원리",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,안테나공학,,"방사 패턴, 이득 및 지향성, 다양한 안테나 구조 설계",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,LED공학,,"발광 다이오드 원리, 조명 시스템 설계, 방열 및 패키징 기술",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,수치해석,,"오차 분석, 비선형 방정식 해법, 수치 미분 및 적분",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,차세대이동통신,,"5G, 6G 기술, 빔포밍, 대용량 MIMO, 저지연 통신",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,광통신시스템,,"네트워크 계층 구성, 광 교환 기술, 시스템 신뢰성 분석",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+4,2,전공선택,디지털제어,,"이산 시간 시스템, Z-변환 제어기 설계, 디지털 필터 구현",https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+01월 04일,전학년,공통필수,창업과기업가정신1,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do
+03월 04일,고학년,공통필수,취창업과진로설계,,,https://www.sejong.ac.kr/kor/college/electronics-and-information-engineering.do

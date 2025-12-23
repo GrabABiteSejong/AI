@@ -1,0 +1,80 @@
+﻿학년,학기,이수구분,과목명,키워드,URL
+1,1,공통필수,세종인을위한진로설계,"진로, 세미나",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,1,공통필수,서양철학:쟁점과토론,"철학, 인문학, 토론",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,1,공통필수,대학영어,"영어, 외국어",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,1,학문기초교양필수,미적분학1,"미적분, 수학",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,1,전공기초,일반물리학1,"물리, 역학, 기초과학",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,1,전공기초,일반화학1,"화학, 원소, 분자",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,1,전공기초,일반생물학1,"생물, 생명과학",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,공통필수,세종인을위한전공탐색,"전공, 진로",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,공통필수,문제해결을위한글쓰기와발표,"작문, 발표, 커뮤니케이션",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,공통필수,우주자연인간,"과학, 철학, 우주",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,학문기초교양필수,SW기초코딩,"코딩, 파이썬, 프로그래밍",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,미적분학2,"미적분, 수학",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,일반물리학2,"물리학, 기초전자기학",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,일반화학2,"화학, 심화화학",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,일반생물학2,"생물학, 심화생물",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,기초천문학,"별, 우주, 천문",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,기초통계학,"통계, 확률",https://www.sejong.ac.kr/kor/college/chemistry.do
+1,2,전공기초,기초생물통계학,"바이오통계, 데이터",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,학문기초교양필수,인공지능과빅데이터,"AI, 데이터분석",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,전공선택,분석화학실험,"실험, 분석화학, 기기",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,전공선택,유기화학1,"유기물, 탄소화합물, 반응",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,전공선택,정량분석화학,"농도, 계산, 분석",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,전공선택,향장학,"화장품, 피부, 뷰티",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,전공선택,환경화학,"환경, 오염, 화학반응",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,1,전공선택,화학을위한물리,"물리, 양자, 열역학",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공필수,유기화학2,"유기물, 탄소화합물, 반응",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공필수,응용분석화학,"분석, 응용, 산업",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공선택,단백질생화학,"단백질, 효소, 아미노산",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공선택,물리화학1,"물리, 열역학, 양자화학",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공선택,유기화학실험,"실험, 유기합성",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공선택,화학과진로1,"취업, 진로, 상담",https://www.sejong.ac.kr/kor/college/chemistry.do
+2,2,전공선택,전자재료화학개론,"반도체, 디스플레이, 소재",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공필수,무기화학,"금속, 무기물, 배위화학",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공필수,물리화학2,"물리, 열역학, 양자화학",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,기기분석화학,"NMR, IR, 기기분석",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,나노화학,"나노, 신소재, 표면",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,물리화학실험,"실험, 물리화학",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,유기메카니즘,"메커니즘, 반응기작",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,유전생화학,"유전자, DNA, 복제",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,전기화학,"전지, 부식, 전기반응",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,화학과진로2,"취업, 진로, 상담",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,화학교과교육론,"교육, 사범, 교직",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,화학전공인턴십1,"실무, 현장실습",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,1,전공선택,이차전지개론,"배터리, 리튬, 에너지",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,고분자화학,"플라스틱, 중합, 합성",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,극미량분석,"미량, 검출, 환경분석",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,금속착물화학,"착물, 금속, 전이원소",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,무기화학실험,"실험, 무기화학",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,생유기화학,"생체, 유기반응",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,생화학실험,"바이오, 실험, 분석",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,화학과소프트웨어1,"전산화학, 모델링",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,화학교재연구및지도법,"교육, 교재, 지도안",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,화학논리및논술,"논술, 교육, 사고력",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,화학전공인턴십2,"실무, 현장실습",https://www.sejong.ac.kr/kor/college/chemistry.do
+3,2,전공선택,복합소재화학,"복합체, 신소재, 고기능",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공필수,생화학,"물질대사, 세포, 분자생물",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,졸업연구및진로1,"졸업연구, 논문",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,고등고분자화학,"심화, 합성, 물성",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,고분자화학실험,"실험, 고분자",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,신소재화학,"그래핀, CNT, 신소재",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,유기합성,"합성, 전합성, 시약",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,응용화학연구및실험1,"응용화학, 연구",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,의약화학,"약, 신약개발, 약리",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,크로마토그래피실습,"HPLC, GC, 분리",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,수소에너지및응용개론,"수소, 연료전지",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,1,전공선택,화학을위한머신러닝,"AI, 딥러닝, 화인포매틱스",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,졸업연구및진로2,"졸업연구, 논문",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,고등물리화학,"심화물리화학, 양자",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,고등분석화학,"심화분석화학, 기기",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,고등생화학,"심화생화학, 분자",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,분광학및실험,"스펙트럼, 레이저, 구조분석",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,분자모델링,"계산, 시뮬레이션, 도킹",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,생물리화학,"생체물리, 열역학",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,에너지화학,"태양전지, 촉매, 에너지",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,응용화학연구및실험2,"응용화학, 연구",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,융복합화학,"다학제, 응용",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,초분자화학,"자기조립, 호스트-게스트",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,정밀화학,"의약품, 염료, 계면활성제",https://www.sejong.ac.kr/kor/college/chemistry.do
+4,2,전공선택,생활속의화학,"일상, 대중과학",https://www.sejong.ac.kr/kor/college/chemistry.do

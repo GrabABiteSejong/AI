@@ -1,0 +1,83 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,1,교양,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,1,교양,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,1,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,1,전공기초,C프로그래밍및실습,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,1,전공기초,확률및통계,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,1,전공기초,미적분학1,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,교양,대학영어,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,교양,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,교양,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,학문기초교양필수,인공지능과빅데이터,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,전공기초,고급C프로그래밍및실습,C프로그래밍및실습(필수),,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,전공기초,선형대수,,,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+1,2,전공기초,공업수학1,미적분학1(필수),,,https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공필수,자료구조및실습,고급C프로그래밍및실습(필수),,"스택·큐·트리, 복잡도 분석, 데이터 효율성",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공선택,디지털시스템,,,"논리 회로 설계, FPGA, Verilog, VHDL",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공선택,공학설계기초(산학프로젝트입문),,,"설계 프로세스, 창의적 문제 해결, 기초 설계 실무",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공선택,문제해결및실습:C++,,,"프로그래밍 사고, 실전 코딩, 논리적 해결 역량",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공선택,웹프로그래밍,,,"HTML, CSS, JS, 프런트엔드, 백엔드 아키텍처",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공선택,윈도우즈프로그래밍,,,"GUI 설계, .NET 프레임워크, 윈도우 API 활용",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,1,전공선택,K-MOOC:모두를위한머신러닝,,,"AI 기초 개념, 머신러닝 입문, 지능형 시스템 이해",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공필수,알고리즘및실습,자료구조및실습(필수),,"정렬, 탐색 알고리즘, 동적 계획법, 최적 해법 탐색",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공필수,컴퓨터구조,디지털시스템(권장),,"CPU 구조, 메모리 계층, 명령어 집합(ISA)",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공선택,일반물리학1,,,"역학, 전자기학, 기본 물리 법칙 및 응용",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공선택,이산수학및프로그래밍,,,"집합론, 그래프 이론, 논리 연산, 알고리즘 수학",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공선택,문제해결및실습:JAVA,,,"실무 문제 해결, 알고리즘 적용 실습, 프로그램 구현",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공선택,K-MOOC:멀티미디어,,,"데이터 마이닝 기초, 통계적 분석, 빅데이터 플랫폼",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+2,2,전공선택,오픈소스SW개론,,,"오픈 소스 생태계, 라이선스 이해, Git, GitHub 활용",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공필수,운영체제,컴퓨터구조(권장),,"커널 아키텍처, 프로세스 관리, 가상 메모리 시스템",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,데이터베이스,,,"SQL 프로그래밍, 관계형 모델, 데이터베이스 설계",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,컴퓨터그래픽스,,,"렌더링 파이프라인, 쉐이더 프로그래밍, 3D 시각화",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,신호및시스템,,,"푸리에 변환, LTI 시스템 해석, 주파수 도메인 분석",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,프로그래밍언어의개념,,,"언어 구문 및 의미론, 설계 원리, 프로그래밍 패러다임",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,C#프로그래밍,,,"객체 지향 프로그래밍, C# 문법, .NET 응용 개발",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,마이크로컴퓨터,,,"MCU 제어, 펌웨어 설계, 주변장치 인터페이스 실습",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,오픈소스SW공학,,,"오픈 소스 프레임워크 응용, 실전 프로젝트 개발",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,최신기술콜로키움1,,,"최신 기술 트렌드, 전문가 특강, 산업계 동향 파악",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,딥러닝,,,"인공신경망 구조, CNN, RNN, 모델 훈련 및 최적화",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,인공지능과윤리,,,"AI 편향성 해결, 데이터 프라이버시, 기술 거버넌스",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,1,전공선택,메타버스시스템,,,"VR, AR 기술, 가상 공간 모델링, 디지털 인터랙션",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공필수,컴퓨터네트워크,,,"OSI 7계층, TCP, IP, 네트워크 프로토콜",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,디지털신호처리,,,"신호 샘플링, FFT, 디지털 필터링",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,소프트웨어공학,,,"SDLC, 요구사항 분석, SW 유지보수",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,리눅스프로그래밍및실습,운영체제(권장),,"쉘 스크립트, 시스템 호출, 커널 관리",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,XML프로그래밍,,,"XML 파싱, 데이터 직렬화, 웹 데이터 교환",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,심화프로그래밍설계,,,"디자인 패턴, 고급 아키텍처, 코드 최적화",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,웹기반시스템,,,"서버-클라이언트 아키텍처, 웹 프레임워크, 분산 시스템",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,통신시스템,,,"변복조 기술, 신호 전송 이론, 통신 채널 분석",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,멀티코어프로그래밍,,,"병렬 컴퓨팅, 멀티스레딩, 성능 동기화",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,인공지능,,,"머신러닝 기초, 신경망 모델, 지능형 에이전트",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,최신기술콜로키움2,,,"기술 트렌드 분석, 전문가 세미나, 산업 동향",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,자연어처리,,,"텍스트 마이닝, 형태소 분석, 트랜스포머 모델",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,고성능인공지능프로그래밍,,,"하드웨어 가속, 모델 경량화, 고성능 연산",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,메타버스데이터처리,,,"3D 데이터 처리, 가상 공간 연동, 대용량 실시간 처리",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,블록체인,,,"탈중앙화, 합의 알고리즘, 스마트 컨트랙트",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+3,2,전공선택,AI네트워킹,,,"자율형 네트워크 제어, AI 기반 트래픽 분석, 지능형 라우팅",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공필수,Capstone디자인(산학협력프로젝트),,,"산학 협력 프로젝트, 시제품 제작, 종합 시스템 구현",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공필수,SW-AI종합설계,,,"소프트웨어 통합, AI 모델 적용, 최종 성과물 도출",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 선정, 선행 연구 조사, 진로 로드맵 설정",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,영상처리,,,"이미지 필터링, 특징 추출, 객체 인식 기초",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,지능형엣지시스템,,,"온디바이스 AI, 실시간 데이터 처리, 엣지 컴퓨팅",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,정보보호개론,,,"암호화 기초, 네트워크 보안, 침해 대응 전략",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,지능형네트워크프로그래밍,,,"네트워크 제어 자동화, SDN, API 연동 프로그래밍",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,Human-AI Interaction,,,"사용자 중심 설계, AI 협업 인터페이스, 인지적 상호작용",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,패턴인식,,,"특징 공간 분석, 통계적 분류, 클러스터링",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,인공지능소프트웨어특강1,,,"최신 AI SW 기술, 실무 프레임워크, 사례 연구",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,최신기술콜로키움3,,,"분야별 심화 주제 세미나, 최신 연구 교류, 학술 동향",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,지능형시스템특강1,,,"특수 시스템 설계, 지능형 제어 응용, 기술 실무",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,K-MOOC:생성형인공지능입문,,,"LLM 기초, 생성 모델 원리, AI 창의적 활용",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,1,전공선택,특허와창업,,,"지식재산권 확보, BM 수립, 스타트업 경영 기초",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,졸업연구및진로2,,,"연구 결과 정리, 졸업 논문 작성, 취업 및 진학 준비",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,지능형앱프로그래밍,,,"모바일 AI 앱 개발, 지능형 인터페이스 구현, 서비스 배포",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,인공지능시스템,,,"AI 인프라 구축, 배포 파이프라인(MLOps), 시스템 최적화",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,지능형정보검색,,,"검색 알고리즘, 랭킹 시스템, 정보 추출 기술",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,컴파일러,,,"구문 분석, 중간 코드 생성, 최적화 및 타겟 코드 생성",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,컴퓨터비전,,,"객체 탐지, 세그멘테이션, 영상 이해 기술",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,인공지능소프트웨어특강2,,,"고급 AI SW 아키텍처, 대규모 시스템 최적화 실무",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,가상현실,,,"VR, AR 구현, 몰입형 콘텐츠 설계, 인터랙티브 3D 공간",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,최신기술콜로키움4,,,"종합 기술 동향 정리, 전문가 네트워킹, 최종 기술 세미나",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,지능형시스템특강2,,,"지능형 시스템 심화 응용, 산업계 프로젝트 분석",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,강화학습,,,"MDP, 정책 및 가치 함수, 에이전트 최적 제어",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do
+4,2,전공선택,객체지향설계기술,,,"상속 및 다형성, SOLID 원칙, 모듈화 설계",https://www.sejong.ac.kr/kor/college/computer-science-and-engineering.do

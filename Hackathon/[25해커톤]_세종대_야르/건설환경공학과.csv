@@ -1,0 +1,54 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,1,공통필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,1,전공기초,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,1,전공기초,공업수학1,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,공통필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,공통필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,공통필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,전공기초,일반화학1,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+1,2,전공기초,공업수학2,,,,https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,1,전공필수,환경공학및실험,,,"수질 분석 실습, 환경 오염 측정, 폐수 처리 기초",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,1,전공필수,유체역학및연습,,,"유체 정역학 및 동역학, 베르누이 방정식, 관로 유동 실습",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,1,전공필수,응용역학및연습1,,,"부재의 응력과 변형, 보의 휨 해석, 구조물 역학 기초",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,1,전공선택,기초창의설계,,,"설계 프로세스 이해, 창의적 문제 해결, 팀 프로젝트 기초",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,2,전공필수,응용역학및연습2,,,"트러스 및 프레임 해석, 에너지법, 부정정 구조물 역학",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,2,전공필수,토질역학,,,"흙의 물리적 성질, 투수와 압밀, 흙의 전단 강도 해석",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,2,전공선택,건설수치해석,,,"건설 공학 수치 모델링, 오차 분석, 매트랩 및 파이썬 활용",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,2,전공선택,수리학,,,"물 전송 원리, 개수로 흐름, 수문 관측 및 해석",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+2,2,전공선택,기후변화물관리,,,"기후 변화 시나리오, 수자원 확보 전략, 가뭄 및 홍수 관리",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공필수,콘크리트공학,,,"시멘트 및 골재 특성, 배합 설계, 콘크리트 내구성 분석",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공필수,구조공학,,,"구조 시스템 역학, 하중 산정, 부재 설계 원리",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공선택,재해방지공학,,,"방재 시스템 설계, 위기 관리, 내진 및 방수로 공학",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공선택,스마트수처리시스템공학,,,"지능형 상하수도 시스템, 막여과 기술, 수처리 자동화 제어",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공선택,강구조공학,,,"강재 특성, 용접 및 볼트 접합, 강구조 부재 설계",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공선택,측량학,,,"거리 및 각도 측정, GPS 활용, 지형도 제작 및 GIS 기초",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공선택,AI활용물관리기술,,,"빅데이터 기반 수량 예측, 딥러닝 수질 모니터링, 스마트 물관리",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,1,전공선택,졸업연구및진로1,,,"연구 주제 선정, 문헌 조사, 진로 로드맵 기획",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,건설경영관리,,,"공정 관리, 원가 산정, 건설 프로젝트 경영 및 법규",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,도시수문학,,,"도시 유출 해석, 강우-유출 모델링, 배수 시스템 설계",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,콘크리트구조설계,,,"RC 부재 설계, 극한강도설계법, 슬래브 및 기둥 설계 원리",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,물재생자원순환,,,"하수 재이용 기술, 자원 회수 시스템, 순환 골재 활용",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,기초공학,,,"얕은 기초 및 깊은 기초 설계, 지지력 분석, 옹벽 역학",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,합성구조설계,,,"강재와 콘크리트 합성 부재, 합성 거더 설계, 복합 구조 해석",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,도시물순환공학,,,"저영향개발, 투수성 포장, 도시 물순환 건전성 확보",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+3,2,전공선택,졸업연구및진로2,,,"최종 연구 성과 정리, 논문 작성, 취업 및 진학 최종 준비",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,도로공학,,,"도로 설계 원리, 포장 공학, 교통량 분석, 기하 구조 설계",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,도시수재해공학,,,"도시 침수 방지, 홍수 피해 저감, 수재해 모니터링, 방재 시스템",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,건설CAD,,,"도면 작성 기초, BIM 데이터 활용, 3D 구조물 모델링, 전산 설계 실습",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,내진설계,,,"지진 동역학, 구조물 진동 제어, 내진 보강 공법, 지진 하중 해석",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,해안및항만공학,,,"파랑 역학, 항만 시설 설계, 해안 침식 방지, 준설 및 매립 공학",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,Water-AI Open Lab,,,"수자원 데이터 실험, AI 모델 적용 실무, 개방형 연구 프로젝트, 알고리즘 검증",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,1,전공선택,AI기반건설환경데이터분석,,,"환경 센서 데이터 처리, 머신러닝 예측 모델, 오염원 추적 분석, 건설 환경 지능화",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,스마트시티프로젝트(종합설계),,,"지능형 도시 인프라, 도시 플랫폼 통합, 종합 설계 결과물 도출, 스마트 시티 거버넌스",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,교량공학,,,"교량 형식별 특성, 상부 및 하부 구조 설계, 하중 조합 해석, 교량 유지 관리",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,첨단계측공학,,,"센서 네트워크 활용, 비파괴 검사 기술, 실시간 상태 모니터링, 데이터 계측 정밀도 분석",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,건설재료시험,,,"재료별 강도 시험, 품질 관리 표준, 시험 결과 통계 분석, 현장 시공 재료 검증",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,스마트환경유체모델링,,,"수치 유체 역학 모델링, 환경 영향 예측, 실시간 유동 분석, 시뮬레이션 알고리즘",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,Water-AI Internship,,,"현장 실무 경험 습득, 수자원 AI 기술 적용, 산업체 연계 프로젝트, 직무 역량 강화",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do
+4,2,전공선택,빅데이터분석,,,"대용량 데이터 전처리, 통계적 가설 검정, 데이터 시각화 및 마이닝, 인사이트 도출",https://www.sejong.ac.kr/kor/college/civil-and-environmental-engineering.do

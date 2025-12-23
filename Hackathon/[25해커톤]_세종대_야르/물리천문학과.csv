@@ -1,0 +1,56 @@
+﻿학년,학기,이수구분,과목명,키워드,URL
+1,1,공통교양필수,대학영어,"영어, 외국어",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,1,공통교양필수,서양철학 : 쟁점과토론,"철학, 인문학, 토론",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,1,공통교양필수,세종인을위한진로설계,"진로, 대학생활",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,1,학문기초교양,미적분학1,"미적분, 기초수학",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,1,전공기초,일반물리학1,"물리학, 역학, 기초물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,1,전공기초,일반화학1,"화학, 기초과학",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,1,전공기초,일반생물학1,"생물학, 기초과학",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,공통교양필수,세종인을위한전공탐색,"전공탐색, 대학생활",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,공통교양필수,문제해결을위한글쓰기와발표,"글쓰기, 발표, 커뮤니케이션",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,공통교양필수,우주자연인간,"자연과학, 인문학, 과학철학",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,학문기초교양,SW기초코딩,"코딩, 프로그래밍, 파이썬",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,미적분학2,"미적분, 심화수학",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,기초통계학,"통계, 확률",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,기초천문학,"천문학, 별, 우주",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,기초생물통계학,"생물통계, 확률론",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,일반물리학2,"물리학, 전자기학, 기초물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,일반화학2,"화학, 심화화학",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+1,2,전공기초,일반생물학2,"생물학, 심화생물",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,1,학문기초교양,인공지능과빅데이터,"AI, 머신러닝, 빅데이터",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,1,전공필수,역학1,"고전역학, 운동법칙, 물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,1,전공필수,항성천문학,"별, 항성, 천문",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,1,전공선택,기초계산과학,"수치해석, 컴퓨터, 시뮬레이션",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,1,전공선택,현대물리학및실험,"현대물리, 양자역학, 실험",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,1,전공선택,수리물리1,"수리물리, 수학, 편미분",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공필수,은하천문학,"은하, 성단, 우주론",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공필수,전자기학1,"전자기학, 전기장, 자기장",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공선택,계산과학,"알고리즘, 전산물리, 프로그래밍",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공선택,기초천문관측및실습,"천체관측, 망원경, 실습",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공선택,수리물리2,"수리물리, 복소함수, 선형대수",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공선택,역학2,"역학, 라그랑지안, 해밀토니안",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+2,2,전공선택,전자학실험,"전자회로, 물리실험",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,1,전공필수,양자역학1,"양자역학, 파동함수, 물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,1,전공선택,고급계산과학,"고급전산, 병렬계산, 시뮬레이션",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,1,전공선택,기초회로와센서실험,"회로설계, 센서, 실험",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,1,전공선택,전자기학2,"전자기학, 맥스웰 방정식",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,1,전공선택,천체물리학,"천체물리, 고에너지, 물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,1,전공선택,항성대기,"별, 대기, 복사",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,2,전공선택,나노소자의이해,"나노물리, 반도체, 소자",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,2,전공선택,양자역학2,"양자역학, 섭동이론, 심화물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,2,전공선택,열물리학,"열역학, 엔트로피, 통계물리",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,2,전공선택,천문관측및실습(종합설계),"관측, 캡스톤, 실습",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,2,전공선택,천체분광학개론,"분광학, 스펙트럼, 분석",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+3,2,전공선택,디스플레이공학,"디스플레이, 광학, 소자",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,1,전공선택,졸업연구및진로1,"졸업논문, 연구, 취업",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,1,전공선택,고체물리학1,"고체물리, 결정, 격자",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,1,전공선택,전파천문학,"전파, 전파망원경, 천문",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,1,전공선택,데이터분석기법,"데이터, 통계, 분석",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,1,전공선택,통계물리학,"통계역학, 앙상블, 다체계",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,1,전공선택,현대우주론,"우주론, 암흑물질, 암흑에너지",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,2,전공선택,졸업연구및진로2,"졸업연구, 심화",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,2,전공선택,반도체소자물리학,"반도체, 물리, 소자",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,2,전공선택,고체물리학2,"고체물리, 에너지 밴드",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,2,전공선택,성간물질,"성간물질, 가스, 먼지",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,2,전공선택,핵및입자물리학,"원자핵, 입자물리, 소립자",https://www.sejong.ac.kr/kor/college/department-of-physics-and-astronomy.do
+4,2,전공선택,중력과 상대론,"상대성 이론, 중력, 블랙홀",

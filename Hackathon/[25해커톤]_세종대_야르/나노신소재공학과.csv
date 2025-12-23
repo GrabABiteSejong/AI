@@ -1,0 +1,64 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,1,학문기초교양필수,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,2,교양,대학영어,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,2,교양,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+1,2,학문기초교양필수,일반화학1,,,,https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공기초,공업수학1,,,"미분방정식, 선형대수학, 공학수학 기초",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공필수,결정구조및X선회절,,,"결정학 기초, 격자 구조, 점결함 및 전위",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공필수,재료열역학1,,,"엔트로피, 엔탈피, 깁스 자유 에너지, 상태 방정식",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공선택,공학기초설계실험,,,"문제 정의, 창의적 설계 프로세스, 프로토타이핑",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공선택,전기전자공학,,,"기초 회로 해석, 전압 및 전류 법칙, 전자 부품 이해",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공선택,일반물리학2,,,"뉴턴 역학, 운동 법칙, 일과 에너지 원리",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공필수,신소재과학1,,,"신소재 분류, 재료 과학 기초, 나노 기술 개요",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,1,전공선택,일반화학2,,,"화학 평형, 반응 속도론, 산 및 염기 반응",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공기초,공업수학2,,,"라플라스 변환, 푸리에 급수, 편미분 방정식",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공필수,유기화학,,,"탄소 화합물, 유기 반응 기작, 고분자 기초",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공선택,전자기학,,,"정전기장, 자기장, 맥스웰 방정식, 전자기파 전파",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공선택,재료열역학2,,,"상평형 그림 해석, 용액 열역학, 화학 포텐셜",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공선택,재료의전자기적물성,,,"밴드 이론, 전기 전도도, 유전체 특성",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공선택,신소재과학2,,,"재료 합성 실습, 실험 데이터 분석, 보고서 작성",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공선택,현대물리,,,"양자 역학 기초, 파동 및 입자 이중성, 원자 구조",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+2,2,전공선택,AI재료열역학1,,,"기계 학습 기반 열역학 모델링, 데이터 기반 상평형 예측",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공필수,고체물리,,,"결정 구조 해석, 고체 내 전자 거동, 반도체 물성",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공필수,확산및상변태,,,"확산 메커니즘, 핵 생성 및 성장, 상변태 속도론",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,금속과세라믹기초설계및실험,,,"세라믹 소성, 금속 주조 및 단조, 재료 가공 공정",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,고분자화학,,,"중합 반응, 고분자 사슬 구조, 분자량 제어",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,바이오재료공학,,,"생체 적합성, 의료용 소재, 조직 공학 응용",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,에너지재료,,,"이차 전지, 수소 에너지, 태양 전지 소재",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,반도체재료,,,"실리콘 웨이퍼, 도핑 기술, 에너지 밴드 갭",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,기초물리화학,,,"양자 화학 기초, 통계 열역학, 분자 분광학",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,1,전공선택,산화물재료,,,"세라믹스 물성, 기능성 산화물, 절연체 및 강유전체",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공필수,재료의기계적성질,,,"응력 및 변형률 곡선, 연성 및 취성 파괴, 피로 및 크리프",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공필수,반도체와고분자화학기초설계및실험,,,"유기 반도체, 전도성 고분자, 유연 소자 기초",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공선택,반도체제조공학,,,"포토리소그래피, 식각 및 증착 공정, 불순물 확산",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공선택,고분자물리,,,"점탄성 거동, 유리 전이 온도, 고분자 기계적 특성",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공선택,고체화학,,,"고체 내 결합 이론, 비정질 구조, 나노 재료 화학",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공선택,화학기기분석,,,"SEM 및 TEM 분석, XRD 결정 구조 분석, 분광학적 측정",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공선택,신금속재료,,,"고강도 합금, 형상 기억 합금, 금속 기공 제어",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+3,2,전공선택,전기화학,,,"전지 원리, 부식 및 방식, 전기 화학 센서",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,졸업연구및진로1,,,"주제 선정, 선행 연구 조사, 진로 로드맵 기획",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,나노신소재창의연구1(종합설계),,,"최신 신소재 동향, 나노 기술 심화, 전문가 특강",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,재료분석학,,,"분석 기기 원리, 표면 분석 기술, 구조 규명 방법",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,초미립소재학,,,"나노 입자 합성, 콜로이드 화학, 입자 크기 제어",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,박막공학,,,"박막 증착 원리, 표면 개질 기술, 코팅 공정 최적화",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,자성체재료,,,"자성 원리, 연자성 및 경자성 재료, 스핀트로닉스 기초",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,반도체나노소자,,,"나노 와이어 및 나노 튜브, 양자점 소자, 나노 스케일 소자 설계",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,고분자합성,,,"단계 중합 및 연쇄 중합, 공중합체 설계, 합성 공정",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,산학협동강좌1,,,"산학 협력 프로젝트, 현장 문제 해결, 실무 역량 강화",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,1,전공선택,나노신소재인턴십1,,,"차세대 소재 연구, 나노 융합 기술, 산업 이슈 분석",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,졸업연구및진로2,,,"최종 논문 작성, 연구 성과 정리, 취업 및 진학 상담",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,나노신소재창의연구2(종합설계),,,"미래 소재 기술, 나노 공정 심화, 학술 교류 세미나",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,금속공정학,,,"합금 설계, 열처리 공정, 소성 가공 기술",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,진공공학,,,"진공 펌프 원리, 진공도 측정, 박막 공정 환경 제어",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,광전자소자와디스플레이,,,"LED 및 LD 원리, 수광 소자 특성, 광통신 소자 설계",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,유기전자소자,,,"유기 태양 전지, 유기 발광 다이오드(OLED), 유연 전자 소자",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,전자세라믹스재료,,,"유전 및 강유전 세라믹스, 압전 소자, 적층 세라믹 커패시터(MLCC)",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,세라믹스공정학,,,"원료 정제, 성형 및 소결 공정, 미세 구조 제어",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,나노재료응용,,,"나노 센서, 약물 전달 시스템, 환경 정화 나노 촉매",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,산학협동강좌2,,,"실무 프로젝트 고도화, 기업 현장 연계 실습, 성과 발표",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do
+4,2,전공선택,나노신소재인턴십2,,,"첨단 나노 소재 최종 정리, 미래 기술 전망 세미나",https://www.sejong.ac.kr/kor/college/nano-technology-and-advanced-materials-engineering.do

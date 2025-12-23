@@ -1,0 +1,51 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,1,학문기초교양필수,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,2,교양,대학영어,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,2,교양,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+1,2,전공기초,일반화학1,,,,https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,1,전공기초,공업수학1,,,"미분방정식, 선형대수학, 공학수학 기초",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,1,전공필수,원자력공학개론1,"일반물리학1(필수), 미적분학1(필수)",,"핵분열 원리, 원자력 발전 개요, 에너지 정책",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,1,전공선택,기초설계,,설계과목,"설계 프로세스, 창의적 문제 해결, 프로토타이핑",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,1,전공선택,양자공학개론,,,"양자 역학 기초, 파동 함수, 입자 물리 개론",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,1,전공선택,원자로열역학,,,"에너지 변환, 증기 사이클, 원자로 열역학 법칙",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공기초,공업수학2,,,"푸리에 급수, 라플라스 변환, 편미분 방정식",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공기초,확률및통계,,,"데이터 분석 기초, 확률 분포, 가설 검정",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공필수,원자력공학개론2,원자력공학개론1(필수),,"노심 설계 기초, 원자로 계통 이해, 발전 원리",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공선택,플라즈마전자기학기초,,,"플라즈마 물리학, 전자기장 해석, 하전 입자 거동",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공선택,발전소계통공학,,,"발전소 인프라 설계, 보조 계통 운전, 전력 생산 공정",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공선택,방사선과물질의상호작용,,,"입자 방사선 반응, 감쇄 계수 분석, 물질 저지능",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공선택,원자로열전달,,,"전도 및 대류 및 복사 해석, 노심 냉각 설계, 열 제거 기술",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공선택,원자로공학,원자력공학개론2(필수),설계과목,"노심 물리 해석, 중성자 확산 이론, 원자로 설계 공학",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+2,2,전공필수,원자력기계공학기초,,,"기계 부품 역학, 원자력 설비 재료, 기구학 기초",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,학문기초교양필수,수치해석,,,"오차 분석, 수치적 알고리즘, 매트랩 활용 연산",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공필수,방사선계측및실험,원자력기계공학기초(필수),,"방사선 검출기 원리, 계측 데이터 처리, 방사능 측정 실험",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공선택,원자로해석실무,,,"시뮬레이션 코드 활용, 원자로 성능 해석 실무, 노심 데이터 분석",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공필수,원자로열수력학,원자로열전달(권장),,"이상 유동 해석, 열전달 상관식, 수력학적 안정성",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공선택,원자로동역학및보호계통,원자로공학(필수),,"제어봉 반응도 계산, 비상 정지 시스템, 원자로 안전 제어",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공선택,핵융합개론,,,"자기 가둠 핵융합, 토카막 원리, 차세대 에너지 기술",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공선택,미래형원전재료,,,"고온 크리프 특성, 방사선 손상 재료, 차세대 원전 소재",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,1,전공선택,원자력발전소구조해석,,,"구조 강도 해석, 유한요소법 기초, 발전 설비 건전성 평가",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공필수,핵연료물리적특성평가,방사선계측및실험(필수),,"핵연료 물성 시험, 조사 후 시험 기술, 연료 건전성 분석",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,핵연료주기및폐기물관리,,,"우라늄 농축 기술, 사용후핵연료 처리, 방사성 폐기물 관리",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,원자력안전규제및법령,,,"원자력 관련 법규, 인허가 절차, 국제 안전 기준 및 규제",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,보건물리,,,"방사선 방호 원칙, 피폭 선량 평가, 방사선 생물학 개요",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,가속기빔공학,,,"입자 가속 원리, 빔 궤도 제어, 가속기 응용 기술",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,원자력고등수학,,,"고등 미적분학 응용, 특수 함수 해석, 복소 함수론",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,원자로고등전산코드,,,"전산 코드 알고리즘, 대규모 시스템 모의, 전산 물리 시뮬레이션",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+3,2,전공선택,미래형원전손상역학개론,,,"재료 파손 기구, 고조사 손상 역학, 수명 예측 모델링",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 선정, 문헌 조사 실습, 진로 로드맵 기획",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,1,전공선택,종합설계A,핵연료물리적특성평가(필수),설계과목,"시스템 통합 설계, 캡스톤 프로젝트 전반기, 실무 과제 기획",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,1,전공선택,원자력발전및방사선실무,,,"발전소 현장 실무, 방사선 관리 실습, 직무 역량 강화",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,1,전공선택,원자력안전과윤리적방호,,,"원자력 안전 문화, 윤리적 책임, 방호 시스템 구축",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,졸업연구및진로2,,,"최종 논문 완성, 연구 성과 정리, 취업 및 진학 최종 가이드",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,몬테카를로분석및방사선차폐,,,"확률적 모의 분석, 방사선 투과 확률, 차폐체 설계 및 최적화",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,종합설계B,,설계과목,"프로젝트 최종 성과물, 시스템 검증, 캡스톤 발표 및 전시",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,원자력데이터사이언스,,,"머신러닝 기반 상태 진단, 노심 데이터 마이닝, 원자력 빅데이터 활용",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,핵연료성능평가,,,"연료봉 수명 예측, 연소도 계산, 핵연료 효율성 정밀 평가",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,방사선기술의응용,,,"의료용 방사선 응용, 비파괴 검사 기술, 산업적 방사선 활용",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do
+4,2,전공선택,양자공학응용,,,"양자 컴퓨터 기초, 양자 정보 처리 응용, 첨단 양자 소자 설계",https://www.sejong.ac.kr/kor/college/nuclear-engineering.do

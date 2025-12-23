@@ -1,0 +1,46 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,1,공통필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,1,전공기초,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,2,공통필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,2,공통필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,2,공통필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+1,2,전공기초,일반화학1,,,,https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공기초,공업수학1,,,"미분방정식, 라플라스 변환, 선형대수",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공필수,환경공학개론,,,"물질수지, 에너지수지, 오염물질",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공필수,수질관리,,,"BOD, COD, 부영양화, 자정작용",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공선택,대기환경및기후변화,,,"대기안정도, 기온역전, 오염 확산",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공선택,신재생에너지,,,"태양광, 풍력, 수소, 에너지 효율",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공선택,기상대기과학,,,"기압배치, 대기대순환, 기상현상",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공선택,환경정보공학,,,"GIS, 수치 모델링, 데이터 시각화",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,1,전공선택,기초창의설계,,,"설계 프로세스, 아이디어 도출",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,2,전공기초,공업수학2,,,"벡터해석, 푸리에급수, 편미분",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,2,전공선택,환경데이터처리,,,"통계검정, 회귀분석, R, Python",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,2,전공선택,폐기물관리,,,"매립, 소각, 재활용, 감량화",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,2,전공선택,연료및연소공학,,,"발열량, 연소이론, 연소생성물",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,2,전공선택,환경유체역학,,,"베르누이 정리, 레이놀즈수, 점성",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+2,2,전공선택,환경통계학,,,"확률분포, 가설검정, 유의수준",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,1,전공선택,대기오염방지공학,,,"집진기, 탈황, 탈질, 유해가스제거",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,1,전공선택,환경화학,,,"반응속도, 화학평형, 산, 염기",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,1,전공선택,환경바이오공학,,,"미생물 처리, 효소, 바이오매스",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,1,전공선택,환경해양학,,,"해류, 해양오염, 해수성분",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,2,전공필수,환경원격탐사,,,"위성영상분석, GIS, 센서",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,2,전공선택,환경생태학,,,"먹이사슬, 종다양성, 생태계보전",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,2,전공선택,환경생물기초,,,"미생물 분류, 생물학적 지표",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,2,전공선택,상수처리및수질분석실험,,,"침전, 여과, 소독, 정수설계",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+3,2,전공선택,온실가스관리및분석,,,"탄소배출권, LCA, 기후변화",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,1,전공선택,졸업연구및진로1,,,"연구설계, 실험 데이터 해석",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,1,전공필수,졸업논문연구,,,"논문 작성, 설계 프로젝트",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,1,전공필수,토양지하수환경학,,,"오염복원, 지하수 유동, 확산방지",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,1,전공선택,환경에너지전문가과정연습,,,"폐기물 에너지화, 에너지 회수",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,2,전공선택,졸업연구및진로2,,,"졸업연구, 데이터 분석, 실험",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,2,전공선택,환경영향평가,,,"저감대책, 환경검토, 평가서 작성",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,2,전공필수,종합설계,,,"캡스톤 디자인, 실무 프로젝트",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,2,전공선택,환경에너지세미나,,,"에너지 시스템, 재생 에너지 공학",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,2,전공선택,환경기기분석및실험,,,"GC, HPLC, 흡광도, 시료분석",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do
+4,2,전공선택,하폐수처리및실습,,,"활성슬러지, 질소, 인 제거, 고도처리",https://www.sejong.ac.kr/kor/college/department-of-environment-energy-geoinformatics.do

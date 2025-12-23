@@ -1,0 +1,52 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,1,공통필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,1,학문기초교양,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,1,전공기초,미적분학1,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,1,전공기초,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,2,공통필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,2,공통필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,2,공통필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,2,학문기초교양,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,2,전공기초,미적분학2,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+1,2,전공기초,일반화학1,,,,https://www.sejong.ac.kr/kor/college/architecture.do
+2,1,전공기초,통계학개론,,,"확률 분포, 기술 통계, 가설 검정, 상관 분석 기초",https://www.sejong.ac.kr/kor/college/architecture.do
+2,1,전공필수,스튜디오1,,,"건축 설계 기초, 공간 구성 실습, 드로잉 및 모형 제작",https://www.sejong.ac.kr/kor/college/architecture.do
+2,1,전공필수,건축디지털디자인1,,,"CAD 기초, 디지털 도면 작성, 2D 및 3D 모델링 입문",https://www.sejong.ac.kr/kor/college/architecture.do
+2,1,전공선택,건축디자인,,,"디자인 원리, 형태와 공간, 건축 미학, 조형 이론",https://www.sejong.ac.kr/kor/college/architecture.do
+2,1,전공선택,표현과매체,,,"시각적 표현 기법, 그래픽 매체 활용, 프리젠테이션 기술",https://www.sejong.ac.kr/kor/college/architecture.do
+2,2,전공기초,인공지능과빅데이터,,,"AI 기초 개념, 사회적 변화, 윤리적 쟁점, 미래 기술 전망",https://www.sejong.ac.kr/kor/college/architecture.do
+2,2,전공필수,건축구조개론,,,"하중 전달 원리, 구조 시스템 종류, 역학적 기초 이론",https://www.sejong.ac.kr/kor/college/architecture.do
+2,2,전공필수,스튜디오2,,,"기초 건축 설계, 대지 분석 실습, 소규모 건축물 계획",https://www.sejong.ac.kr/kor/college/architecture.do
+2,2,전공필수,서양건축사,,,"고대 및 중세 건축, 르네상스 및 바로크 건축, 양식 변천사",https://www.sejong.ac.kr/kor/college/architecture.do
+2,2,전공선택,건축디지털디자인2,,,"고급 3D 모델링, 렌더링 기법, 파라메트릭 디자인 기초",https://www.sejong.ac.kr/kor/college/architecture.do
+3,1,전공필수,건축시공및관리,,,"건설 공정 이해, 건축 재료 특성, 현장 관리 및 품질 표준",https://www.sejong.ac.kr/kor/college/architecture.do
+3,1,전공필수,건축환경개론,,,"열 및 빛 및 음환경, 에너지 절약 설계, 실내 쾌적성 평가",https://www.sejong.ac.kr/kor/college/architecture.do
+3,1,전공필수,스튜디오3,,,"주거 공간 설계, 단위 세대 계획, 주거 단지 분석 실습",https://www.sejong.ac.kr/kor/college/architecture.do
+3,1,전공필수,현대건축사,,,"근대 건축 운동, 포스트모더니즘, 동시대 건축 경향 분석",https://www.sejong.ac.kr/kor/college/architecture.do
+3,1,전공선택,디지털패브리케이션,,,"CNC 및 3D 프린팅, 디지털 제조 공정, 시제품 제작 기술",https://www.sejong.ac.kr/kor/college/architecture.do
+3,2,전공필수,재료와디테일,,,"재료의 물성 및 미학, 디테일 설계 실무, 조형적 표현 연구",https://www.sejong.ac.kr/kor/college/architecture.do
+3,2,전공필수,도시설계,,,"도시 공간 구성 원리, 가로 경관 계획, 공공 영역 디자인",https://www.sejong.ac.kr/kor/college/architecture.do
+3,2,전공필수,스튜디오4,,,"중규모 건축 설계, 공공 건축물 계획, 프로그램 분석 및 배치",https://www.sejong.ac.kr/kor/college/architecture.do
+3,2,전공필수,건축설비,,,"급배수 및 소방 설비, 공기 조화 시스템, 에너지 효율 장치",https://www.sejong.ac.kr/kor/college/architecture.do
+3,2,전공선택,건축경제학,,,"건설 시장 분석, 투자 타당성 검토, 사업 수지 분석 기초",https://www.sejong.ac.kr/kor/college/architecture.do
+4,1,전공필수,스튜디오5,,,"복합 용도 건축 설계, 도시 맥락 분석 실습, 대규모 공간 계획",https://www.sejong.ac.kr/kor/college/architecture.do
+4,1,전공필수,프로젝트관리론,,,"건설 프로젝트 기획, 일정 및 원가 관리, 리스크 평가 기술",https://www.sejong.ac.kr/kor/college/architecture.do
+4,1,전공필수,건축법제도,,,"건축법규 및 시행령, 인허가 절차 이해, 관련 법령 해석 실무",https://www.sejong.ac.kr/kor/college/architecture.do
+4,1,전공선택,도시계획,,,"국토 및 도시 토지 이용, 토지 이용 계획, 도시 개발 전략",https://www.sejong.ac.kr/kor/college/architecture.do
+4,1,전공선택,건축구조역학,,,"힘의 평형과 모멘트, 부재별 응력 해석, 정정 구조물 역학",https://www.sejong.ac.kr/kor/college/architecture.do
+4,2,전공필수,건설경영,,,"건설 기업 운영 관리, 생산성 향상 전략, 경영 정보 시스템",https://www.sejong.ac.kr/kor/college/architecture.do
+4,2,전공필수,스튜디오6,,,"고도화된 건축 설계 실무, 기술적 해결 및 통합, 상세 설계 실습",https://www.sejong.ac.kr/kor/college/architecture.do
+4,2,전공필수,한국건축사,,,"전통 목조 건축 구조, 사찰 및 궁궐 건축, 한국 근대 건축 변천",https://www.sejong.ac.kr/kor/college/architecture.do
+4,2,전공선택,인테리어,,,"실내 공간 마감 계획, 가구 및 조명 계획, 색채 및 재료 코디네이션",https://www.sejong.ac.kr/kor/college/architecture.do
+5,1,전공필수,건축실무,,,"사무소 운영 및 관리, 계약 및 감리 실무, 전문 직업 윤리",https://www.sejong.ac.kr/kor/college/architecture.do
+5,1,전공필수,공간과사회,,,"사회적 상호작용과 공간, 인문학적 공간 분석, 행태와 환경 연구",https://www.sejong.ac.kr/kor/college/architecture.do
+5,1,전공필수,스튜디오7,,,"졸업 설계 기획 및 제안, 주제 발굴 및 대지 선정, 논리적 설계 전개",https://www.sejong.ac.kr/kor/college/architecture.do
+5,1,전공선택,졸업연구및진로1,,,"연구 제안서 작성 실습, 선행 문헌 조사, 진로 로드맵 설정",https://www.sejong.ac.kr/kor/college/architecture.do
+5,2,전공필수,졸업작품,,,"최종 설계안 완성, 고도화된 표현 및 판넬 제작, 졸업 전시 준비",https://www.sejong.ac.kr/kor/college/architecture.do
+5,2,전공필수,스튜디오8,,,"졸업 설계 최종 구현, 시스템 통합 및 검증, 성과물 고도화 실습",https://www.sejong.ac.kr/kor/college/architecture.do
+5,2,전공선택,개별연구,,,"특정 주제 심화 탐구, 개별 지도 및 실험, 연구 보고서 작성",https://www.sejong.ac.kr/kor/college/architecture.do
+5,2,전공선택,주거론,,,"주택 정책 및 시장 분석, 다양한 주거 형태 연구, 미래 주거 전망",https://www.sejong.ac.kr/kor/college/architecture.do
+5,2,전공선택,졸업연구및진로2,,,"연구 결과 정리 및 보고, 최종 성과물 완성, 취업 및 진학 상담",https://www.sejong.ac.kr/kor/college/architecture.do
+5,2,전공선택,인공지능과건축환경,,,"AI 기반 설계 생성 기술, 알고리즘 디자인 응용, 데이터 기반 조형 연구",https://www.sejong.ac.kr/kor/college/architecture.do

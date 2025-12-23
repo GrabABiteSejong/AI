@@ -1,0 +1,49 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,1,공통필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,1,전공기초,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,1,전공기초,공업수학1,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,공통필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,공통필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,공통필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,전공기초,일반화학1,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+1,2,전공기초,공업수학2,,,,https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,1,전공필수,건축기초설계,,,"설계 도면 작성 기초, 공간 구성 원리, 모형 제작 실습",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,1,전공선택,건축환경개론,,,"열 및 빛 및 음환경 기초, 에너지 절약 건축, 실내 환경 기준",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,1,전공선택,건축구조시스템,,,"하중 전달 체계, 구조 형식별 특성, 공간 구조 시스템",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,1,전공선택,건축공학개론,,,"건설 산업 이해, 건축 엔지니어링 기초, 기술 트렌드 분석",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,2,전공필수,구조역학1,,,"힘의 평형과 합력, 단면 일차 및 이차 모멘트, 보의 응력 해석",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,2,전공선택,건축디지털설계,,,"BIM 소프트웨어 활용, 3D 파라메트릭 디자인, 디지털 트윈 구축",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,2,전공선택,건축설비개론,,,"급배수 시스템, 환기 및 냉난방 기초, 건물 에너지 성능",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+2,2,전공선택,창의공학설계,,,"문제 정의 및 아이디어 도출, 융합 설계 프로세스, 프로토타이핑",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공필수,건축환경설계,,,"패시브 디자인 전략, 에너지 시뮬레이션 활용, 친환경 건축 계획",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공필수,구조역학2,,,"처짐 및 변형 해석, 부정정 구조물 해법, 매트릭스 변위법 기초",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공필수,건설관리및경영,,,"공정 계획 및 관리, 원가 관리, 건설 생산성 향상 전략",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공선택,건축일반구조,,,"각 부위별 구조 상세, 시공성 고려 설계, 마감재와 구조의 결합",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공선택,건축기계설비시스템,,,"공조 시스템 설계, 열원 기기 선정, 에너지 관리 시스템",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공선택,철근콘크리트공학,,,"철근콘크리트 재료 역학적 특성, 휨 및 전단 설계 원리, 연성 확보 방법",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,1,전공선택,건축공학AI,,,"데이터 기반 건설 자동화, 머신러닝 활용 구조 최적화, 이미지 인식 기술",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,건축시공,,,"토공사 및 골조공사 실무, 시공 기술 및 공법, 현장 품질 관리",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,건축법규,,,"건축법 및 관련 시행령, 인허가 절차 이해, 법규 준수 설계 검토",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,특수구조개론,,,"대공간 및 초고층 구조, 쉘 및 케이블 구조, 진보된 구조 시스템",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,건축재료,,,"콘크리트 및 금속 재료 특성, 친환경 신소재 기술, 재료 시험 및 평가",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,건축조명,,,"자연 채광 및 인공 조명 설계, 광학 기초 이론, 시각 환경 평가",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,철근콘크리트설계,,,"슬래브 및 기둥 실무 설계, 극한강도설계법 적용, 상세 도면 작성",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+3,2,전공선택,건축구조해석,,,"유한요소법 기초, 구조 해석 프로그램 실습, 동적 반응 분석",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,1,전공필수,공학설계A,,,"전공 융합 프로젝트 기획, 시스템 요구사항 분석, 중간 결과물 도출",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,1,전공선택,건축실무,,,"설계 사무소 및 건설 현장 실무, 계약 관리 및 행정, 프로페셔널 역량",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,1,전공선택,건축전기설비시스템,,,"수변전 설비 계획, 전력 부하 계산, 조명 및 방재 전기 시스템",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,1,전공선택,구조계획및설계,,,"시스템 선정 및 예비 설계, 하중 조합 적용, 통합 구조 설계 실무",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,1,전공선택,철골구조,,,"강재 접합부 설계, 좌굴 및 안정성 해석, 철골 부재 상세 설계",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 발굴 및 제안서 작성, 선행 문헌 조사, 진로 로드맵 설정",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,2,전공필수,공학설계B,,,"프로젝트 최종 구현 및 검증, 성과물 고도화, 종합 설계 발표",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,2,전공선택,건설IT,,,"스마트 건설 기술 적용, 드론 및 센서 데이터 활용, 정보 통합 관리 플랫폼",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,2,전공선택,건축환경설비해석,,,"열역학 및 유체 역학적 해석, 설비 시스템 성능 평가, 시뮬레이션 알고리즘",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,2,전공선택,스마트구조개론,,,"지능형 감지 및 제어 구조, 자가 치유 재료, 구조 상태 모니터링",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,2,전공선택,컴퓨터구조해석,,,"고급 수치 해석 기법, 복잡한 비선형 해석 실습, 컴퓨터 기반 모델링 검증",https://www.sejong.ac.kr/kor/college/architectural-engineering.do
+4,2,전공선택,졸업연구및진로2,,,"논문 및 최종 보고서 완성, 연구 성과 정리, 취업 및 진학 최종 가이드",https://www.sejong.ac.kr/kor/college/architectural-engineering.do

@@ -1,0 +1,62 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,1,공통필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,1,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,1,전공기초,C프로그래밍및실습,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,1,전공기초,확률및통계,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,공통필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,공통필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,공통필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,학문기초교양필수,인공지능과빅데이터,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,전공기초,공업수학1,,,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,전공기초,고급C프로그래밍및실습,C프로그래밍및실습(필수),,,https://www.sejong.ac.kr/kor/college/software.do
+1,2,전공기초,선형대수,,,,https://www.sejong.ac.kr/kor/college/software.do
+2,1,전공필수,자료구조및실습,고급C프로그래밍및실습(필수),,"스택·큐·트리, 데이터 효율성, 알고리즘 복잡도 분석",https://www.sejong.ac.kr/kor/college/software.do
+2,1,전공선택,객체지향프로그래밍:C++,,,"클래스·상속·다형성, OOP 설계 원칙, C++, Java 기초",https://www.sejong.ac.kr/kor/college/software.do
+2,1,전공선택,윈도우프로그래밍,,,"GUI 설계, .NET 프레임워크, 윈도우 API 활용",https://www.sejong.ac.kr/kor/college/software.do
+2,1,전공선택,디지털이미지프로그래밍,,,"픽셀 데이터 처리, 필터링, 이미지 편집 기초",https://www.sejong.ac.kr/kor/college/software.do
+2,1,전공선택,일반물리및시뮬레이션,,,"전자기학, 빛과 파동, 전자기 유도 및 회로 실험",https://www.sejong.ac.kr/kor/college/software.do
+2,2,전공필수,알고리즘및실습,자료구조및실습(필수),,"정렬 및 탐색, 동적 계획법, 최적 해법 탐색",https://www.sejong.ac.kr/kor/college/software.do
+2,2,전공필수,SW설계기초(산학프로젝트입문),,,"요구사항 정의, 설계 다이어그램, SW 생명주기 기초",https://www.sejong.ac.kr/kor/college/software.do
+2,2,전공선택,실시간컴퓨터그래픽스,,,"임베디드 시스템, 실시간 스케줄링, 지연 시간 최적화",https://www.sejong.ac.kr/kor/college/software.do
+2,2,전공선택,컴퓨터구조,,,"CPU 구조, 명령어 집합(ISA), 메모리 계층 구조",https://www.sejong.ac.kr/kor/college/software.do
+2,2,전공선택,객체지향프로그래밍:JAVA,,,"고급 디자인 패턴, 제네릭, 멀티스레딩 프로그래밍",https://www.sejong.ac.kr/kor/college/software.do
+2,2,전공선택,응용수치해석및시각화,,,"선형 방정식 해법, 수치 미분 및 적분, MATLAB 활용",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공필수,데이터베이스,,,"SQL 프로그래밍, 관계형 모델, 데이터베이스 설계",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,오픈소스SW개론,,,"Git, GitHub, 협업 워크플로우, 오픈소스 라이선스 이해",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,운영체제,,,"커널 아키텍처, 프로세스 관리, 가상 메모리 시스템",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,객체지향XR프로그래밍,,,"XML 파싱, 데이터 직렬화, 웹 데이터 교환 기술",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,모바일프로그래밍,,,"안드로이드, iOS 개발, 앱 생명주기, 모바일 UI 디자인",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,실세계모델링및렌더링,,,"물리 엔진, 확률 모델링, 가상 환경 시뮬레이션",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,머신러닝,,,"지도, 비지도 학습, 분류 및 회귀 모델, 성능 평가",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,연구실인턴십1,,,"연구 프로세스 경험, 실험 설계 지원, 학술 활동 기초",https://www.sejong.ac.kr/kor/college/software.do
+3,1,전공선택,최신기술콜로키움1,,,"최신 IT 트렌드 분석, 산업계 전문가 특강, 기술 세미나",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공필수,딥러닝개론,,,"인공신경망 기초, CNN, RNN, 역전파 및 경사 하강법",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,데이터베이스프로그래밍,,,"트랜잭션 관리, 동시성 제어, 쿼리 최적화 심화",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,컴퓨터네트워크,,,"OSI 7계층, TCP, IP 프로토콜, 라우팅 알고리즘",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,XR엔진개론,,,"Unity, Unreal 엔진 기초, 실감형 콘텐츠 제작, 3D 렌더링",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,웹기반프로그래밍,,,"프런트엔드 및 백엔드 아키텍처, REST API, 웹 프레임워크",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,컴퓨터애니메이션,,,"리깅, 키프레임 애니메이션, 모션 그래픽스 원리",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,음성오디오처리,,,"특징 추출, 오디오 필터링, 음성 합성 및 인식 기초",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,연구실인턴십2,,,"심화 연구 과제 수행, 데이터 분석 및 결론 도출, 결과 발표",https://www.sejong.ac.kr/kor/college/software.do
+3,2,전공선택,최신기술콜로키움2,,,"차세대 기술 동향 분석, 네트워킹, 미래 기술 전망",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 선정, 문헌 조사, 진로 계획 수립",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공필수,Capstone디자인(산학협력프로젝트),,,"산학 협력, 종합 설계, 결과물 도출",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공필수,SW-AI종합설계,,,"SW 아키텍처, AI 모델 통합, 시스템 개발",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,가상현실,,,"VR 환경 구축, 몰입형 콘텐츠, 인터랙션 설계",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,컴퓨터비전및실습,,,"영상 인식, 특징 추출, OpenCV, 딥러닝 실습",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,생성형AI,,,"LLM, 이미지 생성, 프롬프트 엔지니어링",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,"UI, UX디자인개론",,,"사용자 경험 설계, 인터페이스 기초, 와이어프레임",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,소프트웨어특강1,,,"최신 SW 기술, 특수 주제, 전문가 강연",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,인턴십1,,,"실무 경험, 산업 현장 기술, 직무 역량 강화",https://www.sejong.ac.kr/kor/college/software.do
+4,1,전공선택,최신기술콜로키움3,,,"기술 동향 분석, 학술 세미나, 전문가 네트워킹",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,메타버스시스템,,,"가상 세계 플랫폼, 아바타 인터랙션, 공간 데이터 처리",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,디지털트윈,,,"실시간 동기화, 물리-가상 매핑, 예측 시뮬레이션",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,증강현실,,,"AR 마커 탐지, 현실-가상 정합, 인터랙티브 콘텐츠",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,게임인공지능,,,"게임 캐릭터 에이전트, 경로 탐색, 의사결정 알고리즘",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,HCI,,,"인간-컴퓨터 상호작용, 사용성 평가, 인터페이스 심리학",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,소프트웨어특강2,,,"SW 심화 주제, 신기술 적용, 실무 특강",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,인턴십2,,,"고급 실무 실무, 현장 프로젝트 참여, 전문성 강화",https://www.sejong.ac.kr/kor/college/software.do
+4,2,전공선택,최신기술콜로키움4,,,"종합 기술 전망, 연구 성과 공유, 미래 기술 세미나",https://www.sejong.ac.kr/kor/college/software.do

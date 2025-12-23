@@ -1,0 +1,61 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,1,학문기초교양필수,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,2,교양,대학영어,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,2,교양,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+1,2,학문기초교양필수,일반화학1,,,,https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,1,전공기초,수치해석,,,"수치적 최적화, 오차 분석, 비선형 방정식 해법",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,1,전공기초,공업수학1,,,"상미분 방정식, 선형 대수 기초, 라플라스 변환",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,1,전공필수,기초역학,,,"힘의 평형, 모멘트, 정적 평형 상태 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,1,전공필수,열역학,,,"열역학 법칙, 엔트로피, 에너지 효율 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,1,전공필수,기계제도및CAD,,,"도면 작성 표준, 2D 및 3D 모델링, 컴퓨터 지원 설계",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,1,전공선택,기초설계,,,"공학 설계 프로세스, 창의적 문제 정의, 팀 프로젝트 기초",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,2,전공기초,공업수학2,,,"편미분 방정식, 푸리에 급수, 복소해석 기초",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,2,전공필수,유체역학,,,"베르누이 방정식, 점성 유동, 유체 정역학 및 동역학",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,2,전공필수,동역학,,,"가속도 분석, 일과 에너지 원리, 기구학적 거동",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,2,전공필수,고체역학,,,"응력과 변형률, 보의 휨 해석, 재료 파손 이론",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+2,2,전공선택,기계요소설계,,,"부재 강도 계산, 체결 요소 설계, 축 및 베어링 선정",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,1,전공필수,기계제작법,,,"주조 및 단조 가공, 절삭 가공 원리, 제조 공정 최적화",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,1,전공선택,유체기계,,,"펌프 및 터빈 동작 원리, 효율 특성 곡선, 캐비테이션 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,1,전공선택,기계진동학,,,"자유 진동 및 강제 진동, 진동 감쇠 시스템, 공진 현상 방지",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,1,전공선택,응용기계설계,,,"복합 기계 장치 설계, 최적 설계 기법 적용, 메커니즘 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,1,전공선택,재료거동학,,,"피로 파손 해석, 크리프 현상, 탄소성 변형 거동",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,1,전공선택,기계공학계측및실험,,,"측정 장비 활용 실습, 데이터 수집 및 분석, 실험 결과 검증",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,열전달,,,"전도 및 대류 및 복사 해석, 열교환기 설계, 정상 및 과도 상태",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,자동제어,,,"피드백 제어 시스템, 라플라스 변환 응용, 안정성 판별법",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,열유체응용설계,,,"열교환 및 유동 가시화 실험, 성능 계수 측정, 열역학 사이클 검증",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,기계가공학,,,"정밀 절삭 이론, 비전통 가공 공정, 표면 거칠기 제어",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,열공정해석,,,"가공 공정 내 열전달 분석, 온도 분포 예측, 재료 물성 변화",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,응용열역학,,,"가스 터빈 및 증기 사이클, 연소 기초 이론, 냉동 및 공조 시스템",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,전자공학개론,,,"회로 이론 기초, 반도체 소자 이해, 논리 게이트 응용",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,컴퓨터응용설계,,,"고급 CAD 기법, 어셈블리 모델링, 설계 데이터 관리",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,인공지능응용기계공학,,,"기계 학습 기반 설계, 데이터 기반 성능 예측, 알고리즘 최적화",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+3,2,전공선택,금속적층제조공정학,,,"3D 프린팅 공정 원리, 금속 분말 용융 기술, 적층 구조 설계",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,종합설계A,,,"캡스톤 프로젝트 기획, 프로토타입 제작, 시스템 요구사항 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 선정, 선행 문헌 조사, 진로 로드맵 수립",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,메카트로닉스,,,"센서 및 액추에이터 제어, 하드웨어 및 소프트웨어 통합, 신호 처리",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,기초유한요소법,,,"유한요소 모델링 기초, 강성 행렬 구성, 경계 조건 처리 및 해석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,마이크로나노기계공학,,,"미세 가공 기술, 나노 재료 특성, MEMS 시스템 설계",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,로보틱스,,,"로봇 기구학 및 동역학, 경로 계획 알고리즘, 로봇 비전 및 제어",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,연소공학개론,,,"화학 반응 평형, 연소 속도 해석, 배기가스 저감 기술",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,복합재료역학,,,"이종 재료 적층 해석, 등가 물성 산출, 파손 모드 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,시스템해석,,,"동적 시스템 모델링, 상태 공간 표현법, 시간 및 주파수 응답",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,산학연협동세미나,,,"기업 연계 문제 해결, 실무 공정 설계 실습, 최종 성과물 시연",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,기계공학인턴십1,,,"현장 실무 경험, 전공 지식 현장 적용, 직무 역량 강화",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,1,전공선택,전산열유체역학,,,"격자 생성 기술, 수치 유동 해석 모델링, CFD 소프트웨어 활용",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,종합설계B,,,"시스템 최적화 및 고도화, 최종 결과물 검증, 성과 발표 및 전시",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,졸업연구및진로2,,,"논문 작성 및 완성, 연구 성과 정리, 취업 및 진학 최종 준비",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,내연기관,,,"엔진 열역학 사이클, 연소실 설계, 동력 및 토크 특성 분석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,트라이볼로지,,,"마찰 및 마모 및 윤활 이론, 표면 공학 기초, 베어링 수명 해석",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,최적설계,,,"수학적 최적화 기법, 제약 조건 처리, 가중치 선정 및 다목적 최적화",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,공기조화및냉동,,,"냉동 사이클 설계, 공기 선도 해석, HVAC 시스템 제어",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,에너지공학,,,"신재생 에너지 시스템, 에너지 변환 및 저장 기술, 지속 가능한 발전",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,자동차구조설계,,,"파워트레인 아키텍처, 조향 및 제동 시스템, 차체 강성 설계",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,신제품개발방법론,,,"시장 분석 및 기획, 품질 기능 전개, 양산 공정 설계",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,기계공학인턴십2,,,"심화 실무 프로젝트 수행, 기술 보고서 작성, 현장 전문가 멘토링",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,환경과에너지,,,"오염 방지 기술, 에너지 효율 향상 전략, 탄소 배출 저감 정책",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do
+4,2,전공선택,생체역학,,,"인체 골격 및 근육 모델링, 생체 재료 역학, 의료 기기 설계 기초",https://www.sejong.ac.kr/kor/college/mechanical-engineering.do

@@ -1,0 +1,78 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,1,공통필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,1,공통필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,1,전공기초,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,2,공통필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,2,공통필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,2,공통필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,2,학문기초교양필수,미적분학2,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+1,2,전공기초,일반화학1,,,,https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공기초,공업수학1,,,"미분방정식, 선형대수학 기초, 공학수학 입문",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공필수,기초설계,,,"창의적 문제 해결, 아이디어 구체화, 기초 설계 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,지구자원시스템개론,,,"자원 순환 체계, 시스템 엔지니어링 기초, 자원 공학 개론",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,지구시스템의이해,,,"지질학 기초, 지구 내부 구조, 암석 및 광물 개요",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,전산프로그래밍및실습,,,"프로그래밍 논리, 알고리즘 기초, 실전 코딩 역량",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,기초역학개론,,,"정역학 및 동역학 실습, 힘의 평형, 기초 역학 해석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,위성원격탐사개론및실습,,,"위성 영상 분석, 원격 탐사 이론, 공간 데이터 획득",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,빅데이터로보는세상,,,"데이터 트렌드 분석, 사회적 변화, 빅데이터 활용 사례",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,1,전공선택,석유가스공학개론,,,"시추 공법 기초, 석유 및 가스 생산 공정, 에너지 자원학",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공기초,공업수학2,,,"라플라스 변환, 푸리에 급수, 편미분 방정식 심화",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공필수,차세대에너지공학,,,"열역학 법칙 적용, 에너지 변환 시스템, 차세대 동력 공학",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공필수,지구환경시스템공학,,,"지하수 오염 분석, 토양 환경 지질, 환경 영향 평가",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,지구화학탐사,,,"화학 원소 분포 해석, 시료 채취 및 분석, 광역 탐사 기법",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,지오메카닉스및실험,,,"암반 역학 기초, 고체 내 응력 해석, 지질 구조 거동",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,지반구조영상화,,,"지하 구조물 안정성, 터널 및 지반 역학, 구조 해석 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,열역학,,,"열과 에너지 전달, 엔트로피 해석, 사이클 효율 분석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,지구측량및실습,,,"지형도 제작, GPS 수신 및 처리, GIS 공간 정보 구축",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,에너지자원경제,,,"자원 탐사 현장 실습, 탐사 장비 운용, 실무 데이터 수집",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,인공지능의이해,,,"기계 학습 응용, 데이터 기반 예측 모델, AI 기반 자원 해석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+2,2,전공선택,오픈소스SW공학,,,"오픈 소스 생태계, 깃 및 깃허브 활용, 리눅스 시스템 입문",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공필수,지하공간활용공학,,,"3D 지중 시각화, 지물 물리 탐사 영상, 지하 공간 이미징",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,응용지구전자기학,,,"탄성파 및 전기 비저항 탐사, 물리 검층, 지구 물리 데이터 해석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,금속생산회수공학,,,"광석 제련 기술, 금속 추출 및 정제, 소재 생산 공정",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,지질공학및실습,,,"암반 사면 안정성, 터널 시공 역학, 지질 공학 설계 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,디지털자료처리및실습,,,"디지털 신호 처리 기초, 데이터 필터링, 수치 데이터 변환",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,빅데이터조정계산,,,"인포그래픽 설계, 시각화 도구 활용, 데이터 통계 분석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,지중환경물리탐사,,,"지중 내 물질 이동, 흡착 및 반응 평형, 지하 화학 거동",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,광해방지공학,,,"광산 배수 처리, 폐광지 복원 기술, 오염원 차단 공학",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,핵심광물융합탐사,,,"전략 광물 확보 전략, 글로벌 공급망 분석, 자원 안보 정책",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,파이썬기반기계학습,,,"파이썬 데이터 분석, 지구 자원 시뮬레이션, 수치 해석 코딩",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,광물암석학및실습,,,"광물 결정 구조 분석, 광물 식별 실무, 편광 현미경 관찰",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,1,전공선택,저류공학,,,"다공성 매체 내 유체 유동, 저류층 성능 평가, 투과도 해석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공필수,지구관측빅데이터및실습,,,"딥러닝 기반 지표 분석, 공간 통계 모델링, 빅데이터 머신러닝",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공필수,재해정보시스템공학,,,"조기 경보 시스템, 재난 위험 지도 제작, 안전 정보 플랫폼",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,전기화학공학및실습,,,"전기 분해 원리, 이차 전지 및 배터리 소재, 전기 화학 반응",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,심지층영상화,,,"지진파 토모그래피, 레이더 영상화, 심층 지질 구조 판독",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,에너지환경지오메카닉스및실습,,,"에너지 규제 및 법규, 현장 실무 기술, 환경 시스템 운영",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,측지학,,,"지구 형상 및 중력장 해석, 정밀 측위 기술, 측지 데이터 보정",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,수리지질학,,,"대수층 특성 분석, 지하수 유동 모델링, 수자원 확보 전략",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,지구통계학,,,"크리깅 기법, 공간 상관성 모델링, 확률적 자원량 평가",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,구조지질학및실습,,,"단층 및 습곡 해석, 지각 변형 원리, 야외 지질 조사 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,전산지진학및실습,,,"지진파 전파 시뮬레이션, 수치 지진 모델링, 진원 역학 해석",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,시추공학,,,"보어홀 설계, 비트 및 시추 장비 제어, 굴착 공학 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,로보틱스,,,"자동화 시스템 기초, 센서 제어 알고리즘, 로봇 자율 주행",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+3,2,전공선택,센서및매핑알고리즘,,,"라이다 및 사진 측량, 매핑 알고리즘, 환경 인지 기술",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 선정 실습, 선행 연구 조사, 진로 로드맵 수립",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,종합설계A,,,"종합 설계 기획, 시스템 요구사항 분석, 캡스톤 프로젝트A",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,환경지구화학,,,"중금속 거동 분석, 동위원소 지질학, 환경 생태 화학",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,지하공간설계및실습,,,"대규모 지하 공동 설계, 도심지 지하 공간 개발, 공간 안정성",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,사면해석모델링및실습,,,"산사태 위험도 해석, 보강 공법 설계, 사면 안정화 기술",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,유용자원회수공학,,,"자원 재활용 공정, 침출 및 회수 기술, 순환 자원 공학",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,응용원격탐사및실습,,,"식생 지수 분석, 위성 영상 분류, 환경 변화 모니터링",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,디지털트윈을이용한광산운영,,,"가상 모델 구축, 실시간 데이터 연동, 자원 해석 디지털 트윈",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,환경지구물리학,,,"누출 탐지 기술, 부지 정밀 조사, 환경 물리 탐사 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,1,전공선택,에너지경제성평가,,,"에너지 시장 분석, 자원 경제 정책, 투자 타당성 검토",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,졸업연구및진로2,,,"최종 논문 작성 및 완성, 연구 성과 정리, 취업 및 진학 상담",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,종합설계B,,,"최종 성과물 검증 및 시연, 시제품 제작, 캡스톤 발표 및 전시",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,인공위성지구정보공학,,,"레이더 및 다중 분광 관측, 위성 궤도 제어, 행성 지질학 기초",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,GNSS설계,,,"고정밀 위치 결정 알고리즘, RTK 및 GNSS 설계, 위성 항법 응용",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,구조물비파괴검사,,,"초음파 및 방사선 검사, 구조물 건전성 진단, 파손 탐지 기술",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,지하에너지시스템공학,,,"수소 저장 기술, 압축 공기 에너지 저장, 지하 저장 시스템 설계",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,심지층에너지공학,,,"지열 에너지 개발, 탄소 포집 및 저장 기술, 심지층 열역학",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,3D지질모델링및매장량평가,,,"지하 3차원 모델링, 가상 지질 단면 구축, 지질 정보 가시화",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,스마트마이닝캡스톤디자인,,,"사물인터넷 기반 광산 운영, 자율 주행 광산 장비, 스마트 마이닝 실무",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do
+4,2,전공선택,MIP-PBL,,,"산업체 연계 프로젝트, 실무 문제 해결형 학습, 종합 성과물 도출",https://www.sejong.ac.kr/kor/college/energy-and-mineral-resources-and-engineering.do

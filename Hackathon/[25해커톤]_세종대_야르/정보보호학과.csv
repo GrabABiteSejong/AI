@@ -1,0 +1,56 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,1,교양,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,1,교양,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,1,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,1,전공기초,확률및통계,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,1,전공기초,C프로그래밍및실습,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,교양,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,교양,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,교양,대학영어,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,학문기초교양필수,인공지능과빅데이터,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,전공기초,고급C프로그래밍및실습,C프로그래밍및실습(필수),,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,전공기초,공업수학1,미적분학1(필수),,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+1,2,전공기초,선형대수,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공필수,자료구조및실습,고급C프로그래밍및실습(필수),,"스택·큐·트리, 데이터 효율성, 알고리즘 복잡도 분석",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공필수,공학설계기초(산학프로젝트입문),,,"공학 설계 프로세스, 창의적 문제 해결, 기초 설계 실습",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공선택,컴퓨터네트워크,,,"OSI 7계층, TCP, IP 프로토콜, 소켓 프로그래밍 기초",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공선택,정보보호와보안의기초,,,"정보보호 3요소, 시스템 및 네트워크 보안, 암호학 개요",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공선택,이산수학및프로그래밍,,,"집합론, 수리 논리, 그래프 이론, 알고리즘 수학 기초",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공선택,웹프로그래밍,,,"HTML, CSS, JS, 웹 아키텍처, 클라이언트-서버 구조",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공선택,문제해결및실습:JAVA,,,"알고리즘 문제 풀이, 논리적 사고력, 프로그램 구현 실습",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,1,전공선택,리눅스기초및실습,,,"리눅스 쉘 명령어, 파일 시스템 관리, 프로세스 제어",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공필수,알고리즘및실습,자료구조및실습(필수),,"정렬 및 탐색 알고리즘, 동적 계획법, 최적 해법 탐색",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공필수,컴퓨터구조,,,"CPU 아키텍처, 명령어 집합(ISA), 메모리 계층 및 파이프라이닝",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공선택,대칭키암호론,,,"AES, DES, 블록 및 스트림 암호, 암호 키 관리 전략",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공선택,정수론,,,"소수 및 모듈러 연산, 유클리드 호제법, 암호 수학 기초",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공선택,보안프로그래밍,,,"시큐어 코딩, 소프트웨어 보안 취약점 분석, 안전한 개발 환경",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공선택,어셈블리어,,,"x86, ARM 레지스터, 저수준 언어 제어, 어셈블리 프로그래밍",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공선택,고급컴퓨터네트워크,컴퓨터네트워크(권장),,"무선 네트워크 기술, SDN, 차세대 통신 프로토콜 성능 분석",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+2,2,전공선택,오픈소스SW개론,,,"Git, GitHub 사용법, 오픈소스 라이선스 이해, 커뮤니티 협업",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공필수,공개키암호론,대칭키암호론(권장),,"RSA, ECC, 디지털 서명 및 인증, 공개키 기반 구조(PKI)",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공필수,운영체제및보안,컴퓨터구조(권장),,"프로세스 및 스레드 스케줄링, 가상 메모리 관리, 동기화 문제",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공선택,웹해킹과보안,웹프로그래밍(권장),,"SQL 인젝션 및 XSS 방어, 웹 취약점 진단, 세션 보안",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공선택,K-MOOC:데이터베이스보안,,,"온라인 자기주도 학습, 전공 심화 지식 탐구, 기술 트렌드 학습",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공선택,임베디드시스템보안,,,"MCU 제어 및 활용, 실시간 운영체제(RTOS), 펌웨어 설계",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공선택,K-MOOC:메모리익스플로잇:해킹과방어,,,"온라인 콘텐츠 기반 학습, 최신 정보기술 동향 습득",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공선택,정보보호연구입문,,,"ISMS-P 인증 제도, 정보보호 관련 법규, 개인정보보호 컴플라이언스",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,1,전공선택,보안경진대회트레이닝,,,"CTF 문제 풀이, 실전 해킹 방어 기술, 취약점 탐색 및 대응",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,2,전공선택,시스템해킹과보안,운영체제및보안(권장),,"취약점 분석, 버퍼 오버플로우, 권한 상승 및 방어",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,2,전공선택,오픈소스보안SW설계,,,"보안 라이브러리 활용, 오픈소스 보안 모델, 안전한 SW 설계",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,2,전공선택,AI기반시스템프로그래밍,,,"자동화 도구 개발, 지능형 시스템 최적화, AI 에이전트 구현",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,2,전공선택,사이버관제및대응,,,"SIEM, SOAR 활용, 침해사고 실시간 분석, 위협 모니터링",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,2,전공선택,정보보호심화연구,,,"최신 보안 트렌드 연구, 논문 분석, 학술적 심화 탐구",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+3,2,전공선택,사이버공방종합훈련,,1학점,"CTF 및 레드팀 실무, 공격, 방어 시나리오, 실전 공방 훈련",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공필수,Capstone디자인(산학협력프로젝트),,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공선택,졸업연구및진로1,,,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공선택,네트워크해킹과보안,고급컴퓨터네트워크(권장),,"프로토콜 취약점, 패킷 상세 분석, 방화벽 및 IDS, IPS 운영",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공선택,AI기반악성코드분석,,,"특징 추출 자동화, 기계학습 기반 탐지, 악성코드 정적, 동적 분석",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공선택,디지털포렌식,,,"증거 수집 및 보존, 메모리, 파일시스템 분석, 안티 포렌식 대응",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공선택,인턴십,,,"기업 현장 실습, 보안 직무 역량 강화, 실무 경험 습득",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,1,전공선택,사이버전개론,,,"국가 안보 전략, 하이브리드전, 사이버 전략 및 방어 체계",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,2,전공선택,졸업연구및진로2,졸업연구및진로1(필수),,,https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,2,전공선택,모바일시스템보안,,,"모바일 OS 취약점 진단, 앱 보안 분석, 무선 환경 보안",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,2,전공선택,정보보호특강,,,"분야별 최신 기술 특강, 전문가 네트워킹, 기술 동향 파악",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do
+4,2,전공선택,보안정책과법규,,,"개인정보보호법, ISMS-P 인증, 보안 컴플라이언스 및 거버넌스",https://www.sejong.ac.kr/kor/college/computer-and-information-security.do

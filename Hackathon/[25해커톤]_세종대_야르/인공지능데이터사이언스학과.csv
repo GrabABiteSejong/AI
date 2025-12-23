@@ -1,0 +1,63 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양필수,창업과기업가정신1,,1-4학년 중 수강,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,교양필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,교양필수,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,교양필수,우주자연인간,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,전공기초,C프로그래밍및실습,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,전공기초,미적분학1,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,1,전공기초,확률및통계,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,교양필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,교양필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,교양필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,학문기초교양필수,인공지능과빅데이터,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,전공기초,고급C프로그래밍및실습,C프로그래밍및실습(필수),,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,전공기초,공업수학1,미적분학1(필수),,,https://www.sejong.ac.kr/kor/college/data-science.do
+1,2,전공기초,선형대수,,,,https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공필수,자료구조및실습,,,"스택·큐·트리, 데이터 효율성, 알고리즘 기초",https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공선택,데이터분석개론,,,"데이터 정제, 통계 분석, 데이터 시각화(EDA)",https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공선택,웹프로그래밍,,,"HTML, CSS, JS, 프런트엔드 및 백엔드 개발",https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공선택,수치해석,,,"오차 분석, 선형 방정식 해법, 수치 미분 및 적분",https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공선택,이산수학및프로그래밍,,,"논리, 집합론, 그래프 이론, 알고리즘 기반 수학",https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공선택,기계학습개론,,,"지도, 비지도 학습, 분류 및 회귀 모델 기초",https://www.sejong.ac.kr/kor/college/data-science.do
+2,1,전공선택,고급인공지능활용,,,"딥러닝, 신경망 심화, 자연어 처리(NLP)",https://www.sejong.ac.kr/kor/college/data-science.do
+2,2,전공필수,알고리즘및실습,,,"정렬 및 탐색, 동적 계획법, 알고리즘 성능 분석",https://www.sejong.ac.kr/kor/college/data-science.do
+2,2,전공필수,컴퓨터구조,,,"CPU 구조, 명령어 집합(ISA), 메모리 계층 구조",https://www.sejong.ac.kr/kor/college/data-science.do
+2,2,전공선택,문제해결및실습:JAVA,,,"코딩 테스트 대비, 논리적 사고, 실전 문제 풀이",https://www.sejong.ac.kr/kor/college/data-science.do
+2,2,전공선택,인공지능수학,,,"선형대수학, 확률과 통계, 최적화 이론",https://www.sejong.ac.kr/kor/college/data-science.do
+2,2,전공선택,디지털신호처리,,,"푸리에 변환, 디지털 필터 설계, 샘플링 이론",https://www.sejong.ac.kr/kor/college/data-science.do
+2,2,전공선택,기계학습실습,,,"파이썬 라이브러리 실습, 모델 훈련 및 성능 평가",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,교양필수,취창업과진로설계,,3-4학년 중 수강,,https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공필수,데이터베이스,,,"SQL, 관계형 모델, 데이터 모델링",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공필수,운영체제,,,"커널, 프로세스 관리, 가상 메모리",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,최적화,,,"손실 함수 최소화, 경사 하강법, 볼록 최적화",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,오픈소스SW개론,,,"GitHub, 라이선스, 커뮤니티 기여",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,인공지능과윤리,,,"알고리즘 편향성, 데이터 프라이버시, 책임성",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,딥러닝개론,,,"역전파, 다층 퍼셉트론, 활성화 함수",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,패턴인식,,,"특징 추출, 분류기 설계, 클러스터링",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,시계열분석,,,"추세 분석, 계절성, ARIMA, RNN 모델",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,영상처리,,,"필터링, 에지 검출, 이미지 복원",https://www.sejong.ac.kr/kor/college/data-science.do
+3,1,전공선택,최신기술콜로키움1,,,"최신 기술 동향, 전문가 세미나, 산업 이슈",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,K-MOOC:강화학습,,,"보상 시스템, 정책 경사법, Q-Learning",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,블록체인,,,"분산 장부, 합의 알고리즘, 스마트 컨트랙트",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,설명가능한인공지능,,,"모델 해석성, LIME, SHAP, 투명성 확보",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,딥러닝실습,,,"프레임워크 활용, 신경망 구현, 모델 튜닝",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,데이터시각화,,,"차트, 그래프 설계, 대시보드 구축, 인사이트 도출",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,컴퓨터그래픽스,,,"렌더링, 쉐이더, 3D 기하 변환",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,자연어처리,,,"형태소 분석, 트랜스포머, 언어 모델",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,컴퓨터비전,,,"객체 탐지, 세그멘테이션, 이미지 인식",https://www.sejong.ac.kr/kor/college/data-science.do
+3,2,전공선택,최신기술콜로키움2,,,"기술 심화 세미나, 연구 동향, 네트워킹",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공필수,Capstone디자인(산학협력프로젝트),,,,https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,HAI,,,"인간-AI 상호작용, 사용자 중심 설계, 협업 모델",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,대용량데이터처리,,,"분산 컴퓨팅, Hadoop, Spark, 병렬 처리",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,"AR, VR, MR",,,"가상, 증강 현실 구현, 몰입형 기술, 메타버스",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,졸업연구및진로1,,,"졸업 논문 작성 시작, 프로토타입",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,인공지능문제해결및실습,,,"AI 알고리즘 적용, 실전 문제 풀이, 성능 최적화",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,창의사용자연구1,,,"사용자 분석 기법, 관찰 및 인터뷰, 기획 기초",https://www.sejong.ac.kr/kor/college/data-science.do
+4,1,전공선택,최신기술콜로키움3,,,"차세대 기술 연구, 전문가 강연, 학술 교류",https://www.sejong.ac.kr/kor/college/data-science.do
+4,2,교양필수,특허와창업,,,"지식재산권, BM 수립, 스타트업 전략",https://www.sejong.ac.kr/kor/college/data-science.do
+4,2,전공필수,SW·AI종합설계,,,"SW, AI 시스템 통합 설계, 종합 성과물 제작",https://www.sejong.ac.kr/kor/college/data-science.do
+4,2,전공선택,졸업연구및진로2,,,"졸업 논문 작성, 마무리",https://www.sejong.ac.kr/kor/college/data-science.do
+4,2,전공선택,데이터문제해결및실습,,,"빅데이터 기반 문제 해결, 파이프라인 구축",https://www.sejong.ac.kr/kor/college/data-science.do
+4,2,전공선택,창의사용자연구2,,,"고급 사용자 테스트, 제품 고도화, 피드백 반영",https://www.sejong.ac.kr/kor/college/data-science.do
+4,2,전공선택,최신기술콜로키움4,,,최신 기술 이해,https://www.sejong.ac.kr/kor/college/data-science.do

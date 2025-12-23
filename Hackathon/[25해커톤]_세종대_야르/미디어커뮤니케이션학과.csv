@@ -1,0 +1,55 @@
+﻿학년,학기,이수구분,과목명,키워드,URL
+1,1,공통필수,세종인을위한진로설계,"진로, 세미나, 진로설계",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,1,공통필수,서양철학 : 쟁점과토론,"철학, 인문학, 토론",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,1,공통필수,대학영어,"영어, 외국어, 커뮤니케이션",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,1,학문기초교양필수,컴퓨터사고기반기초코딩,"코딩, 파이썬, 논리적사고",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,1,전공필수,인간커뮤니케이션,"심리학, 대인관계, 소통",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,2,학문기초교양필수,인공지능과빅데이터,"AI, 빅데이터, 데이터분석",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,2,공통필수,세종인을위한전공탐색,"전공탐색, 진로",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,2,공통필수,문제해결을위한글쓰기와발표,"작문, 발표, 스피치",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,2,공통필수,우주자연인간,"과학철학, 자연과학, 인문",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,2,전공필수,미디어의이해,"매체론, 커뮤니케이션이론, 언론",https://www.sejong.ac.kr/kor/college/media-communication.do
+1,2,전공필수,광고PR의이해,"광고, 홍보, 마케팅기초",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공필수,커뮤니케이션이론,"매스컴이론, 사회학, 미디어",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공필수,커뮤니케이션조사방법론,"연구방법, 통계, 조사분석",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공선택,광고매체기획,"광고전략, 미디어믹스, 타겟팅",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공선택,영상콘텐츠제작기초,"영상제작, 촬영, 편집기초",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공선택,정보리터러시,"정보활용, 미디어리터러시",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공선택,어플리케이션기획,"앱기획, UXUI, 모바일",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,1,전공선택,미디어발달사,"미디어역사, 기술변천",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공필수,커뮤니케이션통계실무,"통계분석, R, 데이터실습",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공선택,HCI와커뮤니케이션,"HCI, 인터랙션, 사용자경험",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공선택,통합마케팅커뮤니케이션기획,"IMC, 마케팅기획, 브랜드",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공선택,취재보도론,"저널리즘, 기사작성, 뉴스",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공선택,소셜미디어와가십,"SNS, 온라인문화, 사회심리",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공선택,방송콘텐츠기획,"방송기획, 프로그램제작",https://www.sejong.ac.kr/kor/college/media-communication.do
+2,2,전공선택,OTT미디어론,"OTT, 플랫폼경쟁, 스트리밍",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,PR전략,"PR전략, 공중관계, 위기관리",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,대중문화론,"대중문화, 비판이론, 사회학",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,디지털미디어와사회,"디지털사회, 네트워크, 정보사회",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,디지털저널리즘,"저널리즘, 뉴미디어, 온라인뉴스",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,스타인플루언서마케팅,"인플루언서, 마케팅, 바이럴",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,광고크리에이티브,"크리에이티브, 광고제작, 기획",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,1,전공선택,미디어커뮤니케이션세미나1,"세미나, 전공심화, 토론",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공필수,조직커뮤니케이션,"조직관리, 사내소통, 리더십",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공선택,뉴스큐레이션,"뉴스편집, 알고리즘, 데이터",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공선택,미디어산업과정책,"미디어산업, 규제, 미디어법",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공선택,SNS전략커뮤니케이션,"SNS전략, 캠페인, 소셜데이터",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공선택,PR캠페인기획,"PR캠페인, 홍보실무, 기획",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공선택,메타버스와인터랙티브미디어,"메타버스, 인터랙티브, 가상현실",https://www.sejong.ac.kr/kor/college/media-communication.do
+3,2,전공선택,미디어커뮤니케이션세미나2,"세미나, 심화학습",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,졸업연구및진로1,"졸업논문, 연구설계, 진로",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,IMC와소비자,"소비자행동, 마케팅전략",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,미디어법제,"언론법, 저작권, 윤리",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,1인미디어종합설계,"유튜브, 1인미디어, 캡스톤",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,미디어빅데이터활용,"빅데이터분석, 데이터마이닝",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,콘텐츠라이팅,"스토리텔링, 라이팅, 작법",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,미디어과학,"과학커뮤니케이션, 이슈분석",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,1,전공선택,미디어커뮤니케이션세미나3,"세미나, 실무연구",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,졸업연구및진로2,"최종졸업연구, 포트폴리오",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,매체비평론,"미디어비평, 비판적사고",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,브랜디드콘텐츠종합설계,"브랜드콘텐츠, 광고제작, 캡스톤",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,프리젠테이션실습,"PT, 스피치, 설득",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,헬스커뮤니케이션,"건강정보, 헬스마케팅",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,미디어스타트업,"창업, 미디어비즈니스",https://www.sejong.ac.kr/kor/college/media-communication.do
+4,2,전공선택,미디어커뮤니케이션전공인턴십,"인턴십, 실무실습, 현장",https://www.sejong.ac.kr/kor/college/media-communication.do

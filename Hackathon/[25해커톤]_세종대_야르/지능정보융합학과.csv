@@ -1,0 +1,66 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,공통교양필수,세종인을위한진로설계,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,1,공통교양필수,비판적사고와창의적글쓰기,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,1,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,1,전공기초,확률및통계,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,1,전공기초,C프로그래밍및실습,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,공통교양필수,세종인을위한전공탐색,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,공통교양필수,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,공통교양필수,대학영어,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,학문기초교양필수,인공지능과빅데이터,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,전공기초,공업수학1,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,전공기초,선형대수,,,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+1,2,전공기초,고급C프로그래밍및실습,C프로그래밍및실습(필수),,,https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공필수,전기회로,,,"회로망 해석, KCL, KVL, RLC 소자 특성",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공필수,기계학습,,,"데이터 분석, 지도, 비지도 학습, 분류 및 회귀",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공선택,공업수학2,,,"벡터 미적분학, 복소해석, 편미분 방정식",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공선택,지능사물인터넷개론,,,"IoT 아키텍처, 센서 네트워크, 지능형 서비스",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공선택,디지털트윈개론,,,"물리-가상 모델링, 실시간 동기화, 시뮬레이션",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공선택,MATLAB프로그래밍,,,"수치 해석 도구, 행렬 연산, 알고리즘 구현",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공선택,파이썬기반기계학습,,,"Scikit-learn, 데이터 전처리, 모델 평가",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,1,전공선택,자료구조및알고리즘,,,"스택, 큐, 트리, 정렬 및 탐색, 복잡도 분석",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공필수,신호및시스템,,,"LTI 시스템, 푸리에 변환, 라플라스 변환",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공필수,연구실인턴,,,"실무 연구 참여, 실험 설계, 학술 활동",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,전기회로실험,,,"회로 구현, 계측기 사용, 데이터 검증",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,데이터베이스,,,"SQL, 관계형 모델, 데이터베이스 설계",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,임베디드시스템,,,"MCU 제어, 실시간 OS, 하드웨어 인터페이스",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,시스템프로그래밍,,,"저수준 언어 제어, 프로세스 관리, 시스템 호출",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,디지털트윈공간플랫폼,,,"가상 공간 구축, 클라우드 연동, 공간 데이터 처리",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,신호검출및추정,,,"확률적 신호 처리, 가설 검정, 파라미터 추정",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,통신이론,,,"아날로그, 디지털 변조, 신호 전송, 통신 채널 분석",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,전자기,,,"정전기장, 맥스웰 방정식, 전자기파 전파",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,물리전자공학,,,"반도체 물성, 에너지 밴드 구조, 소자 동작 원리",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+2,2,전공선택,딥러닝,,,"인공신경망, CNN, RNN, 하드웨어 가속",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공필수,인공지능심화,,,"고급 학습 알고리즘, 최적화 이론, AI 응용",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공필수,창의설계1,,,"종합 시스템 설계, 프로토타이핑, 문제 해결 프로세스",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,수치해석,,,"근사 해법, 수치적 최적화, 비선형 방정식",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,지능IoT플랫폼,,,"엣지 컴퓨팅, 플랫폼 통합, 데이터 파이프라인",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,로봇지능시스템,,,"자율 주행 알고리즘, 로봇 기구학, 지능형 제어",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,디지털트윈,,,"실시간 시뮬레이션, 상태 모니터링, 가상 시제품",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,지능형가상공간,,,"가상 현실(VR, AR), 공간 인터랙션, 실감형 기술",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,자동제어,,,"피드백 제어, 시스템 안정성, 전달 함수",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,디지털신호처리,,,"샘플링 이론, FFT, 디지털 필터 설계",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,디지털통신시스템,,,"변복조 시스템, 비트 오류율 분석, 전송 효율",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,1,전공선택,정보이론,,,"엔트로피, 채널 용량, 데이터 압축 및 부호화",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공필수,창의설계2,,,"아이디어 구체화, 시스템 통합 설계, 캡스톤 결과물 도출",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,자율형사물인터넷,,,"지능형 IoT, 엣지 AI, 상황 인지 네트워크",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,강화학습시스템설계,,,"보상 최적화, 정책 경사법, 에이전트 제어 설계",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,자율트윈,,,"자율 주행 시뮬레이션, 가상 개체 동기화, 트윈 제어 알고리즘",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,사물연동디지털트윈,,,"IoT 데이터 매핑, 실시간 모니터링, 가상-물리 시스템 통합",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,지능제어시스템,,,"퍼지 제어, 신경망 제어, 적응 제어 알고리즘",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,지능형영상처리,,,"딥러닝 기반 객체 인식, 영상 복원, 패턴 분석 고도화",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,이동통신시스템,,,"5G, 6G 네트워크 구조, 핸드오버 기술, 다중 접속 방식",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+3,2,전공선택,통신시스템설계,,,"모듈별 통신망 설계, 성능 시뮬레이션, 하드웨어 인터페이스",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공필수,Capstone디자인(산학협력프로젝트),,,"기업 연계 과제 수행, 실무 문제 해결, 종합 설계 완성",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,졸업연구및진로1,,,"연구 주제 선정, 문헌 분석, 진로 로드맵 기획",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,자율지능시스템설계,,,"지능형 하드웨어 설계, 알고리즘 최적화, 자율 시스템 통합",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,디지털트윈AIoT,,,"AI와 IoT 기술 융합, 트윈 데이터 분석, 지능형 서비스 구현",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,지능형로보틱스,,,"로봇 인지 및 판단 알고리즘, 자율 이동 로봇, HRI 기술",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,지능형통신및네트워크,,,"지능형 라우팅, SDN, NFV 기술, 네트워크 최적화 AI",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,통신표준개론,,,"3GPP 표준화 기구, 기술 규격 분석, 글로벌 표준 기초",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,1,전공선택,현장실습12,,,"산업 현장 실무 경험, 직무 역량 강화, 현장 기술 습득",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,2,전공필수,Capstone디자인(산학협력프로젝트),,,"최종 시제품 제작, 프로젝트 성과 발표, 실무 역량 검증",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,2,전공선택,졸업연구및진로2,,,"졸업 논문 최종 완성, 연구 결과 정리, 취업 및 진학 준비",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,2,전공선택,통신표준심화,,,"차세대 통신 규격 심화, 세부 표준화 실무, 기술 특허 연계",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do
+4,2,전공선택,현장실습12,,,"전공 실무 심화 실습, 산업계 네트워킹, 최종 직무 평가",https://www.sejong.ac.kr/kor/college/intelligence-and-information-convergence.do

@@ -1,0 +1,56 @@
+﻿학년,학기,이수구분,과목명,선수과목,비고,키워드,URL
+1,1,교양,문제해결을위한글쓰기와발표,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,1,학문기초교양필수,SW기초코딩,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,1,학문기초교양필수,미적분학1,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,1,학문기초교양필수,일반물리학1,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,2,교양,대학영어,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,2,교양,서양철학:쟁점과토론,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,2,학문기초교양필수,고급프로그래밍활용,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,2,학문기초교양필수,일반화학1,,,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+1,2,학문기초교양필수,미적분학2,미적분학1(필수),,,https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,1,학문기초교양필수,공업수학1,미적분학1(필수),,"미분방정식, 라플라스 변환, 선형대수",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,1,전공필수,우주항공입문,,,"항공기 분류, 우주 탐사 기초, 항공우주 산업",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,1,전공필수,고체역학,,,"응력, 변형률, 모멘트, 보의 굽힘",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,1,전공필수,열역학,,,"열역학 법칙, 엔트로피, 가스 사이클",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,1,전공선택,항공우주제도및CAD,,,"금속 재료, 복합 소재, 재료 강도",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,2,학문기초교양필수,공업수학2,,,"푸리에 급수, 편미분 방정식, 벡터 미적분",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,2,학문기초교양필수,선형대수학,,,"행렬, 벡터 공간, 고유값, 선형 변환",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,2,전공필수,동역학,,,"질점의 동역학, 강체 운동, 일과 에너지",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,2,전공선택,항공우주응용SW1,고급프로그래밍활용(권장),,"변분법, 복소함수론, 특수함수",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,2,전공필수,공기역학,,,"양력, 항력, 유선형 흐름, 점성 유체",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+2,2,전공필수,기초설계,고체역학/동역학/공기역학(필수),설계3학점,"개념 설계, 시스템 엔지니어링, 도면 작성",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공필수,비행동역학,동역학(필수),,"조종 안정성, 6자유도 운동, 비행 성능",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,우주궤도역학,,,"케플러 법칙, 궤도 전이, 행성 간 항행",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,진동학,,,"자유 진동, 강제 진동, 공진, 감쇠",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,항공기구조역학,,,"부재 해석, 하중 분산, 구조적 안정성",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,압축성유체역학,,,"충격파, 마하수, 노즐 유동, 초음속 비행",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,항공우주AI기초,,,"머신러닝, 딥러닝 응용, 데이터 기반 최적화",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,메카트로닉스종합설계,,설계1학점,"센서, 액추에이터, 마이크로컨트롤러, 제어",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,1,전공선택,항공우주응용SW2,항공우주응용SW1(권장),,"수치적 방법, 비선형 방정식, 근사해 도출",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,학문기초교양필수,수치해석,공업수학1(필수),,"오차 분석, 반복법, 보간법, 수치 적분",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,항공기설계,,설계1학점,"요구도 분석, 중량 추정, 기체 형상 설계",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,추진체공학,,,"제트 엔진, 가스 터빈, 로켓 추진 원리",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,전산구조해석및실습,,,"유한요소법, FEM 소프트웨어, 구조 시뮬레이션",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,자동제어,,,"피드백 루프, 전달함수, 안정성 판별",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,항공우주전자응용설계,,,"회로 이론, 항공 전자기기, 통신 시스템",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,인공위성시스템공학,,,"위성 본체, 통신 링크, 탑재체 설계",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+3,2,전공선택,자율비행시스템설계1,,,"경로 계획, 장애물 회피, 무인 비행 제어",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공필수,종합설계1,기초설계(필수),설계3학점,"캡스톤 디자인, 프로젝트 기획, 초기 설계",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,졸업연구및진로1,,,"논문 주제 선정, 문헌 조사, 연구 설계",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,로켓공학및설계,,설계1학점,"추력 계산, 다단 로켓, 발사체 동역학",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,항공우주공학연구1,,,"최신 기술 동향, 산업 트렌드 분석",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,자율비행시스템설계2,자율비행시스템설계1(권장),,"고도 제어, 자율 착륙, 실시간 항법",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,응용공기역학및설계,,설계1학점,"경계층 이론, 익형 설계, 고속 공기역학",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,항법전자시스템설계,,설계1학점,"GPS, 관성 항법, 위치 측정 시스템",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,열전달,,,"전도, 대류, 복사, 열교환기 설계",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,1,전공선택,초소형위성설계및실습,,,"큐브위성, 임무 설계, 위성 운용",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,졸업연구및진로2,졸업연구및진로1(필수),,"실험 수행, 데이터 분석, 중간 보고",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,헬리콥터공학및설계,,설계1학점,"회전익 역학, 양력 발생, 테일 로터 제어",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,유도제어시스템설계,,설계1학점,"미사일 유도, 비례 항법, 추적 알고리즘",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,항공우주공학세미나,,,"항공기 계통, 기체 시스템 통합",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,항공우주공학연구2,항공우주공학연구1(권장),,"항공우주 부품 설계, 조립 공정",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,연소공학,,,"화학 반응, 화염 전파, 연소실 설계",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,우주발사체임무설계,,,"발사 시나리오, 액체 엔진, 고체 추진제",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,전산응용해석,,,"CFD, 유동 시뮬레이션, 수치 유체 역학",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공선택,항공우주AI응용,항공우주AI기초(권장),,"패턴 인식, 비정형 데이터 분석, AI 모델링",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
+4,2,전공필수,종합설계2,종합설계1(필수),설계3학점,"시제작, 최종 성능 평가, 최종 발표",https://www.sejong.ac.kr/kor/college/intelligent-drone-convergence.do
